@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/emerald-dao/design-system/compare/v1.1.0...v1.1.1) (2022-11-16)
+
+
+### Bug Fixes
+
+* Re run release ([a5bbcbb](https://github.com/emerald-dao/design-system/commit/a5bbcbb6a60ac3b8bdcb78243f2510b7e371fcea))
+
 # [1.1.0](https://github.com/emerald-dao/design-system/compare/v1.0.1...v1.1.0) (2022-11-16)
 
 
