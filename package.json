@@ -1,7 +1,9 @@
 {
   "name": "@emerald-dao/design-system",
   "version": "0.0.0-development",
-  "main": "/css/vaiables.css",
+  "exports": {
+    ".": "./css/variables.css"
+  },
   "publishConfig": {
     "access": "public"
   },
