@@ -1,0 +1,19 @@
+{
+  "name": "emerald-dao-design-system",
+  "version": "0.0.0-development",
+  "main": "/css/vaiables.css",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "transform": "token-transformer tokens/tokens.json tokens/input.json --expandTypography=true",
+    "build": "style-dictionary build"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.5",
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.27"
+  }
+}

@@ -1,0 +1,26 @@
+name: '🚀 release'
+
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  release:
+    name: 🚀 release
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📚 checkout
+        uses: actions/checkout@v3
+      - name: 🟢 node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: https://registry.npmjs.org
+      - run: npm install
+      - run: npm run transform
+      - run: npm run build
+      - name: 🚀 publish to npm
+        run: npm run semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
