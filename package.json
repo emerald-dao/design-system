@@ -16,5 +16,12 @@
     "semantic-release": "^19.0.5",
     "style-dictionary": "^3.7.1",
     "token-transformer": "^0.0.27"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emerald-dao/design-system.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
   }
 }
