@@ -1,5 +1,5 @@
 {
-  "name": "emerald-dao-design-system",
+  "name": "@emerald-dao/design-system",
   "version": "0.0.0-development",
   "main": "/css/vaiables.css",
   "publishConfig": {
