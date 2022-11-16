@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/emerald-dao/design-system/compare/v1.0.1...v1.1.0) (2022-11-16)
+
+
+### Features
+
+* Change export ([1072dfc](https://github.com/emerald-dao/design-system/commit/1072dfcb693f6a9d4789a9d39a4164ecf00ddc12))
+
 ## [1.0.1](https://github.com/emerald-dao/design-system/compare/v1.0.0...v1.0.1) (2022-11-16)
 
 
