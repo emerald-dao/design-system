@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/emerald-dao/design-system/compare/v1.1.1...v1.2.0) (2022-11-16)
+
+
+### Features
+
+* Testing token changes ([10551cf](https://github.com/emerald-dao/design-system/commit/10551cf7f186ef75132fcf1fc6be128503e33c94))
+
 ## [1.1.1](https://github.com/emerald-dao/design-system/compare/v1.1.0...v1.1.1) (2022-11-16)
 
 
