@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/emerald-dao/design-system/compare/v1.0.0...v1.0.1) (2022-11-16)
+
+
+### Bug Fixes
+
+* Fix export route ([dd1b804](https://github.com/emerald-dao/design-system/commit/dd1b804cdaa4654f176b76607f45c2e887415bd6))
+
 # 1.0.0 (2022-11-16)
 
 
