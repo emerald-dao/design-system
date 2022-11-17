@@ -17,7 +17,7 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org
       - run: npm install
-      - run: URL=$(node ./build.js)
+      - run: URL=$(node ./styleDictionaryBuild.js)
       - name: 🚀 publish to npm
         run: npm run semantic-release
         env:

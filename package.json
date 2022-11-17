@@ -2,7 +2,9 @@
   "name": "@emerald-dao/design-system",
   "version": "0.0.0-development",
   "files": [
-    "build/*.css"
+    "build/*.css",
+    "styles/**/*.scss",
+    "styles/app.scss"
   ],
   "publishConfig": {
     "access": "public"
