@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/emerald-dao/design-system/compare/v1.6.0...v1.6.1) (2022-11-17)
+
+
+### Bug Fixes
+
+* Fix missing scss [@forward](https://github.com/forward) ([080da74](https://github.com/emerald-dao/design-system/commit/080da74902ecbb63cc1bc4389b5fe804e8bc415b))
+
 # [1.6.0](https://github.com/emerald-dao/design-system/compare/v1.5.0...v1.6.0) (2022-11-17)
 
 
