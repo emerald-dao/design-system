@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/emerald-dao/design-system/compare/v1.4.0...v1.4.1) (2022-11-17)
+
+
+### Bug Fixes
+
+* [Object object] bug correction ([1c021ba](https://github.com/emerald-dao/design-system/commit/1c021badd96cd34a719605c9ccf0775f4b72eb59))
+
 # [1.4.0](https://github.com/emerald-dao/design-system/compare/v1.3.0...v1.4.0) (2022-11-17)
 
 
