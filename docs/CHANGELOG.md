@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/emerald-dao/design-system/compare/v1.4.1...v1.5.0) (2022-11-17)
+
+
+### Features
+
+* Make package include only needed files ([854bd84](https://github.com/emerald-dao/design-system/commit/854bd845b08afe9b4dc7cca598007a48c51472a4))
+
 ## [1.4.1](https://github.com/emerald-dao/design-system/compare/v1.4.0...v1.4.1) (2022-11-17)
 
 
