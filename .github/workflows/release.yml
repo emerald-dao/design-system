@@ -17,7 +17,6 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org
       - run: npm install
-      - run: npm run transform
       - run: URL=$(node ./build.js)
       - name: 🚀 publish to npm
         run: npm run semantic-release
