@@ -1,5 +1,5 @@
-:root[data-theme=dark] {
-        --clr-primary-50: #acf6e7;
+:root[data-theme='dark'] {
+  --clr-primary-50: #acf6e7;
   --clr-primary-100: #91f3df;
   --clr-primary-200: #6cefd5;
   --clr-primary-300: #47ebca;
@@ -71,4 +71,4 @@
   --clr-alert-900: #5c0a0a;
   --clr-alert-main: #f07575;
   --clr-alert-off: #f0757599;
-    }
+}

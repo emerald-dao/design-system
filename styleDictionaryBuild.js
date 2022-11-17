@@ -22,7 +22,7 @@ const modes = [`light`, `dark`];
 console.log(`☀️ Building general variables...`);
 StyleDictionary.extend({
   source: [`tokens/global.json`],
-
+  transforms: ['attribute/cti', 'size/rem'],
   platforms: {
     css: {
       transformGroup: `css`,
