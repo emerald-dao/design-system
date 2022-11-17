@@ -8,63 +8,69 @@ const path = `build/`;
 console.log(`cleaning ${path}...`);
 fs.removeSync(path);
 
-// Adding custom actions, transforms, and formats
-const styleDictionary = StyleDictionary.extend({});
+StyleDictionary.registerFormat({
+  name: 'css/variables/dark',
+  formatter: function (dictionary, config) {
+    return `@media (prefers-color-scheme: dark) {
+      {
+        :root {
+          ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.value};`).join('\n')}
+        }
+      }
+    }`;
+  },
+});
 
 const modes = [`light`, `dark`];
 
 console.log(`☀️ Building light mode...`);
-styleDictionary
-  .extend({
-    source: [
-      // this is saying find any files in the tokens folder
-      // that does not have .dark or .light, but ends in .json
-      `tokens/!(*.${modes.join(`|*.`)}).json`,
-    ],
+StyleDictionary.extend({
+  source: [
+    // this is saying find any files in the tokens folder
+    // that does not have .dark or .light, but ends in .json
+    `tokens/!(*.${modes.join(`|*.`)}).json`,
+  ],
 
-    platforms: {
-      css: {
-        transformGroup: `css`,
-        buildPath: path,
-        files: [
-          {
-            destination: `variables.css`,
-            format: `css/variables`,
-            options: {
-              outputReferences: true,
-            },
+  platforms: {
+    css: {
+      transformGroup: `css`,
+      buildPath: path,
+      files: [
+        {
+          destination: `variables.css`,
+          format: `css/variables`,
+          options: {
+            outputReferences: true,
           },
-        ],
-      },
+        },
+      ],
     },
-  })
-  .buildAllPlatforms();
+  },
+}).buildAllPlatforms();
 
 // Dark Mode
 // we will only build the files we need to, we don't need to rebuild all the files
 console.log(`\n\n🌙 Building dark mode...`);
-styleDictionary
-  .extend({
-    // Using the include array so that theme token overrides don't show
-    // warnings in the console.
-    include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
-    source: [`tokens/dark.json`],
-    platforms: {
-      css: {
-        transformGroup: `css`,
-        buildPath: path,
-        files: [
-          {
-            destination: `variables-dark.css`,
-            format: `css/variables`,
-            // only putting in the tokens from files with '.dark' in the filepath
-            filter: (token) => token.filePath.indexOf(`dark`) > -1,
-            options: {
-              outputReferences: true,
-            },
+StyleDictionary.extend({
+  // Using the include array so that theme token overrides don't show
+  // warnings in the console.
+  include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
+  source: [`tokens/dark.json`],
+  platforms: {
+    css: {
+      transformGroup: `css`,
+      buildPath: path,
+      files: [
+        {
+          destination: `variables-dark.css`,
+          format: `css/variables/dark`,
+          // only putting in the tokens from files with '.dark' in the filepath
+          filter: (token) => token.filePath.indexOf(`dark`) > -1,
+          options: {
+            outputReferences: true,
           },
-        ],
-      },
+        },
+      ],
     },
-  })
-  .buildAllPlatforms();
+  },
+}).buildAllPlatforms();
