@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/emerald-dao/design-system/compare/v1.6.1...v1.6.2) (2022-11-17)
+
+
+### Bug Fixes
+
+* Fix other missing imports ([1a0b2ef](https://github.com/emerald-dao/design-system/commit/1a0b2effd7ed1593ac81714a4448f2bcabb7ad73))
+
 ## [1.6.1](https://github.com/emerald-dao/design-system/compare/v1.6.0...v1.6.1) (2022-11-17)
 
 
