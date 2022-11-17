@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/emerald-dao/design-system/compare/v1.5.0...v1.6.0) (2022-11-17)
+
+
+### Features
+
+* Include scss base in the package ([9d77a69](https://github.com/emerald-dao/design-system/commit/9d77a6983c35f0d7a85d365f31a3e792dbb6519d))
+
 # [1.5.0](https://github.com/emerald-dao/design-system/compare/v1.4.1...v1.5.0) (2022-11-17)
 
 
