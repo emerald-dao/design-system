@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/emerald-dao/design-system/compare/v1.2.0...v1.3.0) (2022-11-17)
+
+
+### Features
+
+* Custom build for separate dark and light variables ([bd33152](https://github.com/emerald-dao/design-system/commit/bd331529a02c4ffa566da38dd4e1006c27004209))
+
 # [1.2.0](https://github.com/emerald-dao/design-system/compare/v1.1.1...v1.2.0) (2022-11-16)
 
 
