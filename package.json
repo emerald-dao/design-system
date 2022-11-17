@@ -8,7 +8,7 @@
     "access": "public"
   },
   "scripts": {
-    "transform": "token-transformer tokens/tokens.json tokens/input.json --expandTypography=true",
+    "transform": "token-transformer tokens/ input/input.json --expandTypography=true",
     "build": "style-dictionary build",
     "semantic-release": "semantic-release"
   },
