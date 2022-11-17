@@ -9,27 +9,19 @@ console.log(`cleaning ${path}...`);
 fs.removeSync(path);
 
 StyleDictionary.registerFormat({
-  name: 'css/variables/dark',
+  name: 'css/variables/theme',
   formatter: function (dictionary, config) {
-    return `@media (prefers-color-scheme: dark) {
-      {
-        :root {
-          ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.value};`).join('\n')}
-        }
-      }
+    return `${this.selector} {
+      ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.value};`).join('\n')}
     }`;
   },
 });
 
 const modes = [`light`, `dark`];
 
-console.log(`☀️ Building light mode...`);
+console.log(`☀️ Building general variables...`);
 StyleDictionary.extend({
-  source: [
-    // this is saying find any files in the tokens folder
-    // that does not have .dark or .light, but ends in .json
-    `tokens/!(*.${modes.join(`|*.`)}).json`,
-  ],
+  source: [`tokens/global.json`],
 
   platforms: {
     css: {
@@ -39,6 +31,32 @@ StyleDictionary.extend({
         {
           destination: `variables.css`,
           format: `css/variables`,
+          selector: ':root',
+          options: {
+            outputReferences: true,
+          },
+        },
+      ],
+    },
+  },
+}).buildAllPlatforms();
+
+console.log(`☀️ Building light mode...`);
+StyleDictionary.extend({
+  // Using the include array so that theme token overrides don't show
+  // warnings in the console.
+  // include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
+  source: [`tokens/light.json`],
+
+  platforms: {
+    css: {
+      transformGroup: `css`,
+      buildPath: path,
+      files: [
+        {
+          destination: `variables-light.css`,
+          format: `css/variables/theme`,
+          selector: ':root[data-theme=light]',
           options: {
             outputReferences: true,
           },
@@ -63,7 +81,8 @@ StyleDictionary.extend({
       files: [
         {
           destination: `variables-dark.css`,
-          format: `css/variables/dark`,
+          format: `css/variables/theme`,
+          selector: ':root[data-theme=dark]',
           // only putting in the tokens from files with '.dark' in the filepath
           filter: (token) => token.filePath.indexOf(`dark`) > -1,
           options: {
