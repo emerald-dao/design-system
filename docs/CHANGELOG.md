@@ -1,3 +1,11 @@
+# [1.4.0](https://github.com/emerald-dao/design-system/compare/v1.3.0...v1.4.0) (2022-11-17)
+
+
+### Features
+
+* Add prefers-color-scheme to build ([e02dc42](https://github.com/emerald-dao/design-system/commit/e02dc421bf1534ef45f27a51b081f7926c36c301))
+* Include dark mode selector in build.js ([02c3f7c](https://github.com/emerald-dao/design-system/commit/02c3f7ccba23084040a8edbe6b2bc89386ba014c))
+
 # [1.3.0](https://github.com/emerald-dao/design-system/compare/v1.2.0...v1.3.0) (2022-11-17)
 
 
