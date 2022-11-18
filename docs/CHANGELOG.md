@@ -1,3 +1,10 @@
+## [1.13.2](https://github.com/emerald-dao/design-system/compare/v1.13.1...v1.13.2) (2022-11-18)
+
+
+### Bug Fixes
+
+* Small and strong elements corrections ([f956b44](https://github.com/emerald-dao/design-system/commit/f956b443ab6d6208a1de5f5654551179cc7c39a9))
+
 ## [1.13.1](https://github.com/emerald-dao/design-system/compare/v1.13.0...v1.13.1) (2022-11-18)
 
 
