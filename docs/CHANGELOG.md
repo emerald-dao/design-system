@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/emerald-dao/design-system/compare/v1.10.2...v1.11.0) (2022-11-18)
+
+
+### Features
+
+* Add container classes ([a11efc1](https://github.com/emerald-dao/design-system/commit/a11efc1ac125104d366c6c035b79a6c21fe28148))
+
 ## [1.10.2](https://github.com/emerald-dao/design-system/compare/v1.10.1...v1.10.2) (2022-11-18)
 
 
