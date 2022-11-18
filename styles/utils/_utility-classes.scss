@@ -1,9 +1,9 @@
-@use './mixins';
+@use './mixins' as mxn;
 
 .hide-on-mobile {
   display: none;
 
-  @include mq(medium) {
+  @include mxn.mq(medium) {
     display: block;
   }
 }
@@ -11,7 +11,7 @@
 .hide-on-desktop {
   display: block;
 
-  @include mq(medium) {
+  @include mxn.mq(medium) {
     display: none;
   }
 }
