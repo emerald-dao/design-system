@@ -1,3 +1,15 @@
+# [1.9.0](https://github.com/emerald-dao/design-system/compare/v1.8.0...v1.9.0) (2022-11-18)
+
+
+### Bug Fixes
+
+* Font corrections ([d9cbc47](https://github.com/emerald-dao/design-system/commit/d9cbc47bfd5b3b8fb00fb2d3b7f10b9f34009f6e))
+
+
+### Features
+
+* Utility classes ([9f6f855](https://github.com/emerald-dao/design-system/commit/9f6f855035b185bc06f9c85e2ca7091076f99b58))
+
 # [1.8.0](https://github.com/emerald-dao/design-system/compare/v1.7.0...v1.8.0) (2022-11-18)
 
 
