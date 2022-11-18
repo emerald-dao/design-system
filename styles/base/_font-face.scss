@@ -1,21 +1,21 @@
 @use '../abstracts' as *;
 
 @font-face {
-  font-family: Satoshi;
+  font-family: 'Satoshi';
   font-weight: 100 900;
   font-style: normal;
   src: url('/assets/fonts/Satoshi.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: Inter;
+  font-family: 'Inter';
   font-weight: 100 900;
   font-style: normal;
   src: url('/assets/fonts/Inter.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: JetBrains Mono;
+  font-family: 'JetBrains Mono';
   font-weight: 100 900;
   font-style: normal;
   src: url('/assets/fonts/JetBrainsMono.ttf') format('truetype');
