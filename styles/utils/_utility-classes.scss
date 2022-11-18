@@ -1,0 +1,21 @@
+.hide-on-mobile {
+  display: none;
+
+  @include mq(medium) {
+    display: block;
+  }
+}
+
+.hide-on-desktop {
+  display: block;
+
+  @include mq(medium) {
+    display: none;
+  }
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
