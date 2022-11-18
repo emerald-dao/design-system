@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/emerald-dao/design-system/compare/v1.9.0...v1.10.0) (2022-11-18)
+
+
+### Features
+
+* Add links ([d50156f](https://github.com/emerald-dao/design-system/commit/d50156ff1959d0aaa5ded0917ab5cdc2238b9911))
+
 # [1.9.0](https://github.com/emerald-dao/design-system/compare/v1.8.0...v1.9.0) (2022-11-18)
 
 
