@@ -1,0 +1,14 @@
+.menu-link {
+  color: var(--clr-text-main);
+  text-decoration: none;
+  font-size: var(--font-size-0);
+  transition: 0.2s;
+
+  &:hover {
+    color: var(--clr-heading-main);
+  }
+
+  @include mq(medium) {
+    font-size: var(--font-size-1);
+  }
+}
