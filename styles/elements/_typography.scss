@@ -3,22 +3,38 @@
 }
 
 body {
-  font-size: var(--paragraph-medium-regular-font-size);
-  font-family: var(--font-text);
-  color: var(--clr-text-main);
-  --font-weight: var(--font-weight-normal);
+  @extend .text;
+  @extend .text-medium;
 }
 
-h1,
-.h1,
-h2,
-.h2,
-h3,
-.h3,
-h4,
-.h4,
-h5,
-.h5 {
+.text {
+  --font-weight: var(--font-weight-normal);
+  line-height: var(--line-heights-3);
+  color: var(--clr-text-main);
+  font-family: var(--font-text);
+
+  &-xsmall {
+    @extend .text;
+    font-size: var(--paragraph-xsmall-regular-font-size);
+  }
+
+  &-small {
+    @extend .text;
+    font-size: var(--paragraph-small-regular-font-size);
+  }
+
+  &-medium {
+    @extend .text;
+    font-size: var(--paragraph-medium-regular-font-size);
+  }
+
+  &-large {
+    @extend .text;
+    font-size: var(--paragraph-large-regular-font-size);
+  }
+}
+
+.heading {
   --font-weight: var(--font-weight-normal);
   line-height: var(--line-heights-3);
   color: var(--clr-heading-main);
@@ -26,63 +42,46 @@ h5,
 }
 
 h1,
-.h1,
-.h1-medium,
-.h1-bold,
-.h1-extrabold {
+.h1 {
+  @extend .heading;
   letter-spacing: var(--heading-1-regular-letter-spacing);
   font-size: var(--heading-1-regular-font-size);
   line-height: var(--heading-1-regular-line-height);
 }
 
 h2,
-.h2,
-.h2-medium,
-.h2-bold,
-.h2-extrabold {
+.h2 {
+  @extend .heading;
   letter-spacing: var(--heading-2-regular-letter-spacing);
   font-size: var(--heading-2-regular-font-size);
   line-height: var(--heading-2-regular-line-height);
 }
 
 h3,
-.h3,
-.h3-medium,
-.h3-bold,
-.h3-extrabold {
+.h3 {
+  @extend .heading;
   letter-spacing: var(--heading-3-regular-letter-spacing);
   font-size: var(--heading-3-regular-font-size);
   line-height: var(--heading-3-regular-line-height);
 }
 
 h4,
-.h4,
-.h4-medium,
-.h4-bold,
-.h4-extrabold {
+.h4 {
+  @extend .heading;
   letter-spacing: var(--heading-4-regular-letter-spacing);
   font-size: var(--heading-4-regular-font-size);
   line-height: var(--heading-4-regular-line-height);
 }
 
 h5,
-.h5,
-.h5-medium,
-.h5-bold,
-.h5-extrabold {
+.h5 {
+  @extend .heading;
   letter-spacing: var(--heading-5-regular-letter-spacing);
   font-size: var(--heading-5-regular-font-size);
   line-height: var(--heading-5-regular-line-height);
 }
 
-.h1,
-.h2,
-.h3,
-.h4,
-.h5,
-.display,
-.heading,
-.text {
+.weight {
   &-medium {
     --font-weight: var(--font-weight-medium);
   }
