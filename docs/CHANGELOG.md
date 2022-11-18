@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/emerald-dao/design-system/compare/v1.11.0...v1.12.0) (2022-11-18)
+
+
+### Features
+
+* Add sections ([99a3de6](https://github.com/emerald-dao/design-system/commit/99a3de653a73adc5485dd4e8d493dc93cfac276e))
+
 # [1.11.0](https://github.com/emerald-dao/design-system/compare/v1.10.2...v1.11.0) (2022-11-18)
 
 
