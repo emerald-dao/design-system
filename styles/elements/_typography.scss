@@ -14,22 +14,22 @@ body {
 
   &-xsmall {
     @extend .text;
-    font-size: var(--paragraph-xsmall-regular-font-size);
+    font-size: var(--paragraph-xsmall-medium-font-size);
   }
 
   &-small {
     @extend .text;
-    font-size: var(--paragraph-small-regular-font-size);
+    font-size: var(--paragraph-small-medium-font-size);
   }
 
   &-medium {
     @extend .text;
-    font-size: var(--paragraph-medium-regular-font-size);
+    font-size: var(--paragraph-medium-medium-font-size);
   }
 
   &-large {
     @extend .text;
-    font-size: var(--paragraph-large-regular-font-size);
+    font-size: var(--paragraph-large-medium-font-size);
   }
 }
 
@@ -94,14 +94,12 @@ h5,
   }
 }
 
-small,
-.text-small {
-  font-size: var(--fs-300);
+small {
+  @extend .text-small;
 }
 
 strong {
-  --font-weight: 500;
-  font-weight: normal;
+  @extend .weight-bold;
 }
 
 a {
