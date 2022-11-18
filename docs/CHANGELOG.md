@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/emerald-dao/design-system/compare/v1.10.0...v1.10.1) (2022-11-18)
+
+
+### Bug Fixes
+
+* Fix not imported mixin ([a7bb095](https://github.com/emerald-dao/design-system/commit/a7bb095c04f8d19f800b635f74f112cc33302d16))
+
 # [1.10.0](https://github.com/emerald-dao/design-system/compare/v1.9.0...v1.10.0) (2022-11-18)
 
 
