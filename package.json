@@ -4,7 +4,8 @@
   "files": [
     "build/*.css",
     "styles/**/*.scss",
-    "styles/app.scss"
+    "styles/app.scss",
+    "assets/**/*"
   ],
   "publishConfig": {
     "access": "public"
