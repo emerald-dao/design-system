@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/emerald-dao/design-system/compare/v1.7.0...v1.8.0) (2022-11-18)
+
+
+### Features
+
+* Include fonts in package ([127db94](https://github.com/emerald-dao/design-system/commit/127db94c12c18c1d7377d32cf7069da46d5eae67))
+
 # [1.7.0](https://github.com/emerald-dao/design-system/compare/v1.6.3...v1.7.0) (2022-11-17)
 
 
