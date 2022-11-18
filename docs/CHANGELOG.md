@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/emerald-dao/design-system/compare/v1.6.3...v1.7.0) (2022-11-17)
+
+
+### Features
+
+* Typography basic styling ([9dbe47e](https://github.com/emerald-dao/design-system/commit/9dbe47e88cccd2b0c53c24a6dc2f3e197cea080a))
+
 ## [1.6.3](https://github.com/emerald-dao/design-system/compare/v1.6.2...v1.6.3) (2022-11-17)
 
 
