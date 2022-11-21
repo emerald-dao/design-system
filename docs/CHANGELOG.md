@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/emerald-dao/design-system/compare/v1.13.4...v1.14.0) (2022-11-21)
+
+
+### Features
+
+* Add display headings ([3ab8933](https://github.com/emerald-dao/design-system/commit/3ab8933d1dc923798e573073cfc7a65058e82dfe))
+
 ## [1.13.4](https://github.com/emerald-dao/design-system/compare/v1.13.3...v1.13.4) (2022-11-21)
 
 
