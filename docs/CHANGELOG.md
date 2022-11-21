@@ -1,3 +1,10 @@
+## [1.16.1](https://github.com/emerald-dao/design-system/compare/v1.16.0...v1.16.1) (2022-11-21)
+
+
+### Bug Fixes
+
+* Take out button css ([00bfb81](https://github.com/emerald-dao/design-system/commit/00bfb81cf9e1ef00e78ad0370425a26712f6103a))
+
 # [1.16.0](https://github.com/emerald-dao/design-system/compare/v1.15.0...v1.16.0) (2022-11-21)
 
 
