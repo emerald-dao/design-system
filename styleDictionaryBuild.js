@@ -12,7 +12,7 @@ StyleDictionary.registerFormat({
   name: 'css/variables/theme',
   formatter: function (dictionary, config) {
     return `${this.selector} {
-      ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.value};`).join('\n')}
+      ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.original.value};`).join('\n')}
     }`;
   },
 });
