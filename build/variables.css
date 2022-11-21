@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 21 Nov 2022 14:08:03 GMT
+ * Generated on Mon, 21 Nov 2022 14:46:29 GMT
  */
 
 :root {
@@ -18,12 +18,14 @@
   --text-case-uppercase: uppercase;
   --text-case-none: none;
   --paragraph-spacing-0: 0;
-  --letter-spacing-5: 0.1em;
-  --letter-spacing-4: 0.05em;
-  --letter-spacing-3: 0.025em;
+  --letter-spacing-7: 0.1em;
+  --letter-spacing-6: 0.075em;
+  --letter-spacing-5: 0.05em;
+  --letter-spacing-4: 0.025em;
+  --letter-spacing-3: 0.01em;
   --letter-spacing-2: 0em;
-  --letter-spacing-1: -0.025em;
-  --letter-spacing-0: -0.05em;
+  --letter-spacing-1: -0.01em;
+  --letter-spacing-0: -0.025em;
   --font-size-12: 8rem;
   --font-size-11: 6rem;
   --font-size-10: 4.5rem;
@@ -49,7 +51,7 @@
   --display-small-extrabold-text-case: var(--text-case-none);
   --display-small-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --display-small-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-small-extrabold-letter-spacing: var(--letter-spacing-4);
+  --display-small-extrabold-letter-spacing: var(--letter-spacing-0);
   --display-small-extrabold-font-size: var(--font-size-10);
   --display-small-extrabold-line-height: var(--line-heights-0);
   --display-small-extrabold-font-weight: var(--font-weight-extrabold);
@@ -57,7 +59,7 @@
   --display-small-bold-text-case: var(--text-case-none);
   --display-small-bold-paragraph-indent: var(--paragraph-indent-0);
   --display-small-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-small-bold-letter-spacing: var(--letter-spacing-4);
+  --display-small-bold-letter-spacing: var(--letter-spacing-0);
   --display-small-bold-font-size: var(--font-size-10);
   --display-small-bold-line-height: var(--line-heights-0);
   --display-small-bold-font-weight: var(--font-weight-bold);
@@ -65,7 +67,7 @@
   --display-small-medium-text-case: var(--text-case-none);
   --display-small-medium-paragraph-indent: var(--paragraph-indent-0);
   --display-small-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-small-medium-letter-spacing: var(--letter-spacing-4);
+  --display-small-medium-letter-spacing: var(--letter-spacing-0);
   --display-small-medium-font-size: var(--font-size-10);
   --display-small-medium-line-height: var(--line-heights-0);
   --display-small-medium-font-weight: var(--font-weight-medium);
@@ -73,7 +75,7 @@
   --display-small-regular-text-case: var(--text-case-none);
   --display-small-regular-paragraph-indent: var(--paragraph-indent-0);
   --display-small-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-small-regular-letter-spacing: var(--letter-spacing-4);
+  --display-small-regular-letter-spacing: var(--letter-spacing-0);
   --display-small-regular-font-size: var(--font-size-10);
   --display-small-regular-line-height: var(--line-heights-0);
   --display-small-regular-font-weight: var(--font-weight-normal);
@@ -81,7 +83,7 @@
   --display-medium-extrabold-text-case: var(--text-case-none);
   --display-medium-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --display-medium-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-medium-extrabold-letter-spacing: var(--letter-spacing-4);
+  --display-medium-extrabold-letter-spacing: var(--letter-spacing-0);
   --display-medium-extrabold-font-size: var(--font-size-11);
   --display-medium-extrabold-line-height: var(--line-heights-0);
   --display-medium-extrabold-font-weight: var(--font-weight-extrabold);
@@ -89,7 +91,7 @@
   --display-medium-bold-text-case: var(--text-case-none);
   --display-medium-bold-paragraph-indent: var(--paragraph-indent-0);
   --display-medium-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-medium-bold-letter-spacing: var(--letter-spacing-4);
+  --display-medium-bold-letter-spacing: var(--letter-spacing-0);
   --display-medium-bold-font-size: var(--font-size-11);
   --display-medium-bold-line-height: var(--line-heights-0);
   --display-medium-bold-font-weight: var(--font-weight-bold);
@@ -97,7 +99,7 @@
   --display-medium-medium-text-case: var(--text-case-none);
   --display-medium-medium-paragraph-indent: var(--paragraph-indent-0);
   --display-medium-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-medium-medium-letter-spacing: var(--letter-spacing-4);
+  --display-medium-medium-letter-spacing: var(--letter-spacing-0);
   --display-medium-medium-font-size: var(--font-size-11);
   --display-medium-medium-line-height: var(--line-heights-0);
   --display-medium-medium-font-weight: var(--font-weight-medium);
@@ -105,7 +107,7 @@
   --display-medium-regular-text-case: var(--text-case-none);
   --display-medium-regular-paragraph-indent: var(--paragraph-indent-0);
   --display-medium-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-medium-regular-letter-spacing: var(--letter-spacing-4);
+  --display-medium-regular-letter-spacing: var(--letter-spacing-0);
   --display-medium-regular-font-size: var(--font-size-11);
   --display-medium-regular-line-height: var(--line-heights-0);
   --display-medium-regular-font-weight: var(--font-weight-normal);
@@ -113,7 +115,7 @@
   --display-large-extrabold-text-case: var(--text-case-none);
   --display-large-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --display-large-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-large-extrabold-letter-spacing: var(--letter-spacing-4);
+  --display-large-extrabold-letter-spacing: var(--letter-spacing-0);
   --display-large-extrabold-font-size: var(--font-size-12);
   --display-large-extrabold-line-height: var(--line-heights-0);
   --display-large-extrabold-font-weight: var(--font-weight-extrabold);
@@ -121,7 +123,7 @@
   --display-large-bold-text-case: var(--text-case-none);
   --display-large-bold-paragraph-indent: var(--paragraph-indent-0);
   --display-large-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-large-bold-letter-spacing: var(--letter-spacing-4);
+  --display-large-bold-letter-spacing: var(--letter-spacing-0);
   --display-large-bold-font-size: var(--font-size-12);
   --display-large-bold-line-height: var(--line-heights-0);
   --display-large-bold-font-weight: var(--font-weight-bold);
@@ -129,7 +131,7 @@
   --display-large-medium-text-case: var(--text-case-none);
   --display-large-medium-paragraph-indent: var(--paragraph-indent-0);
   --display-large-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-large-medium-letter-spacing: var(--letter-spacing-4);
+  --display-large-medium-letter-spacing: var(--letter-spacing-0);
   --display-large-medium-font-size: var(--font-size-12);
   --display-large-medium-line-height: var(--line-heights-0);
   --display-large-medium-font-weight: var(--font-weight-medium);
@@ -137,7 +139,7 @@
   --display-large-regular-text-case: var(--text-case-none);
   --display-large-regular-paragraph-indent: var(--paragraph-indent-0);
   --display-large-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --display-large-regular-letter-spacing: var(--letter-spacing-4);
+  --display-large-regular-letter-spacing: var(--letter-spacing-0);
   --display-large-regular-font-size: var(--font-size-12);
   --display-large-regular-line-height: var(--line-heights-0);
   --display-large-regular-font-weight: var(--font-weight-normal);
@@ -145,7 +147,7 @@
   --tagline-small-text-case: var(--text-case-uppercase);
   --tagline-small-paragraph-indent: var(--paragraph-indent-0);
   --tagline-small-paragraph-spacing: var(--paragraph-spacing-0);
-  --tagline-small-letter-spacing: var(--letter-spacing-3);
+  --tagline-small-letter-spacing: var(--letter-spacing-4);
   --tagline-small-font-size: var(--font-size-4);
   --tagline-small-line-height: var(--line-heights-0);
   --tagline-small-font-weight: var(--font-weight-normal);
@@ -153,7 +155,7 @@
   --tagline-large-text-case: var(--text-case-uppercase);
   --tagline-large-paragraph-indent: var(--paragraph-indent-0);
   --tagline-large-paragraph-spacing: var(--paragraph-spacing-0);
-  --tagline-large-letter-spacing: var(--letter-spacing-3);
+  --tagline-large-letter-spacing: var(--letter-spacing-4);
   --tagline-large-font-size: var(--font-size-6);
   --tagline-large-line-height: var(--line-heights-0);
   --tagline-large-font-weight: var(--font-weight-normal);
@@ -161,7 +163,7 @@
   --paragraph-xsmall-semibold-text-case: var(--text-case-none);
   --paragraph-xsmall-semibold-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-xsmall-semibold-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-xsmall-semibold-letter-spacing: var(--letter-spacing-1);
+  --paragraph-xsmall-semibold-letter-spacing: var(--letter-spacing-2);
   --paragraph-xsmall-semibold-font-size: var(--font-size-0);
   --paragraph-xsmall-semibold-line-height: var(--line-heights-1);
   --paragraph-xsmall-semibold-font-weight: var(--font-weight-semibold);
@@ -169,7 +171,7 @@
   --paragraph-xsmall-medium-text-case: var(--text-case-none);
   --paragraph-xsmall-medium-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-xsmall-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-xsmall-medium-letter-spacing: var(--letter-spacing-1);
+  --paragraph-xsmall-medium-letter-spacing: var(--letter-spacing-2);
   --paragraph-xsmall-medium-font-size: var(--font-size-0);
   --paragraph-xsmall-medium-line-height: var(--line-heights-1);
   --paragraph-xsmall-medium-font-weight: var(--font-weight-medium);
@@ -177,7 +179,7 @@
   --paragraph-xsmall-regular-text-case: var(--text-case-none);
   --paragraph-xsmall-regular-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-xsmall-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-xsmall-regular-letter-spacing: var(--letter-spacing-1);
+  --paragraph-xsmall-regular-letter-spacing: var(--letter-spacing-2);
   --paragraph-xsmall-regular-font-size: var(--font-size-0);
   --paragraph-xsmall-regular-line-height: var(--line-heights-1);
   --paragraph-xsmall-regular-font-weight: var(--font-weight-normal);
@@ -185,7 +187,7 @@
   --paragraph-small-semibold-text-case: var(--text-case-none);
   --paragraph-small-semibold-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-small-semibold-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-small-semibold-letter-spacing: var(--letter-spacing-1);
+  --paragraph-small-semibold-letter-spacing: var(--letter-spacing-2);
   --paragraph-small-semibold-font-size: var(--font-size-1);
   --paragraph-small-semibold-line-height: var(--line-heights-1);
   --paragraph-small-semibold-font-weight: var(--font-weight-semibold);
@@ -193,7 +195,7 @@
   --paragraph-small-medium-text-case: var(--text-case-none);
   --paragraph-small-medium-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-small-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-small-medium-letter-spacing: var(--letter-spacing-1);
+  --paragraph-small-medium-letter-spacing: var(--letter-spacing-2);
   --paragraph-small-medium-font-size: var(--font-size-1);
   --paragraph-small-medium-line-height: var(--line-heights-1);
   --paragraph-small-medium-font-weight: var(--font-weight-medium);
@@ -201,7 +203,7 @@
   --paragraph-small-regular-text-case: var(--text-case-none);
   --paragraph-small-regular-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-small-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-small-regular-letter-spacing: var(--letter-spacing-1);
+  --paragraph-small-regular-letter-spacing: var(--letter-spacing-2);
   --paragraph-small-regular-font-size: var(--font-size-1);
   --paragraph-small-regular-line-height: var(--line-heights-1);
   --paragraph-small-regular-font-weight: var(--font-weight-normal);
@@ -209,7 +211,7 @@
   --paragraph-medium-semibold-text-case: var(--text-case-none);
   --paragraph-medium-semibold-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-semibold-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-medium-semibold-letter-spacing: var(--letter-spacing-1);
+  --paragraph-medium-semibold-letter-spacing: var(--letter-spacing-2);
   --paragraph-medium-semibold-font-size: var(--font-size-3);
   --paragraph-medium-semibold-line-height: var(--line-heights-1);
   --paragraph-medium-semibold-font-weight: var(--font-weight-semibold);
@@ -217,7 +219,7 @@
   --paragraph-medium-medium-text-case: var(--text-case-none);
   --paragraph-medium-medium-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-medium-medium-letter-spacing: var(--letter-spacing-1);
+  --paragraph-medium-medium-letter-spacing: var(--letter-spacing-2);
   --paragraph-medium-medium-font-size: var(--font-size-3);
   --paragraph-medium-medium-line-height: var(--line-heights-1);
   --paragraph-medium-medium-font-weight: var(--font-weight-medium);
@@ -225,7 +227,7 @@
   --paragraph-medium-regular-text-case: var(--text-case-none);
   --paragraph-medium-regular-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-medium-regular-letter-spacing: var(--letter-spacing-1);
+  --paragraph-medium-regular-letter-spacing: var(--letter-spacing-2);
   --paragraph-medium-regular-font-size: var(--font-size-3);
   --paragraph-medium-regular-line-height: var(--line-heights-1);
   --paragraph-medium-regular-font-weight: var(--font-weight-normal);
@@ -233,7 +235,7 @@
   --paragraph-large-semibold-text-case: var(--text-case-none);
   --paragraph-large-semibold-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-large-semibold-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-large-semibold-letter-spacing: var(--letter-spacing-1);
+  --paragraph-large-semibold-letter-spacing: var(--letter-spacing-2);
   --paragraph-large-semibold-font-size: var(--font-size-4);
   --paragraph-large-semibold-line-height: var(--line-heights-1);
   --paragraph-large-semibold-font-weight: var(--font-weight-semibold);
@@ -241,7 +243,7 @@
   --paragraph-large-medium-text-case: var(--text-case-none);
   --paragraph-large-medium-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-large-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-large-medium-letter-spacing: var(--letter-spacing-1);
+  --paragraph-large-medium-letter-spacing: var(--letter-spacing-2);
   --paragraph-large-medium-font-size: var(--font-size-4);
   --paragraph-large-medium-line-height: var(--line-heights-1);
   --paragraph-large-medium-font-weight: var(--font-weight-medium);
@@ -249,7 +251,7 @@
   --paragraph-large-regular-text-case: var(--text-case-none);
   --paragraph-large-regular-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-large-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --paragraph-large-regular-letter-spacing: var(--letter-spacing-1);
+  --paragraph-large-regular-letter-spacing: var(--letter-spacing-2);
   --paragraph-large-regular-font-size: var(--font-size-4);
   --paragraph-large-regular-line-height: var(--line-heights-1);
   --paragraph-large-regular-font-weight: var(--font-weight-normal);
@@ -257,7 +259,7 @@
   --heading-5-extrabold-text-case: var(--text-case-none);
   --heading-5-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --heading-5-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-5-extrabold-letter-spacing: var(--letter-spacing-0);
+  --heading-5-extrabold-letter-spacing: var(--letter-spacing-2);
   --heading-5-extrabold-font-size: var(--font-size-5);
   --heading-5-extrabold-line-height: var(--line-heights-0);
   --heading-5-extrabold-font-weight: var(--font-weight-extrabold);
@@ -265,7 +267,7 @@
   --heading-5-bold-text-case: var(--text-case-none);
   --heading-5-bold-paragraph-indent: var(--paragraph-indent-0);
   --heading-5-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-5-bold-letter-spacing: var(--letter-spacing-0);
+  --heading-5-bold-letter-spacing: var(--letter-spacing-2);
   --heading-5-bold-font-size: var(--font-size-5);
   --heading-5-bold-line-height: var(--line-heights-0);
   --heading-5-bold-font-weight: var(--font-weight-bold);
@@ -273,7 +275,7 @@
   --heading-5-medium-text-case: var(--text-case-none);
   --heading-5-medium-paragraph-indent: var(--paragraph-indent-0);
   --heading-5-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-5-medium-letter-spacing: var(--letter-spacing-0);
+  --heading-5-medium-letter-spacing: var(--letter-spacing-2);
   --heading-5-medium-font-size: var(--font-size-5);
   --heading-5-medium-line-height: var(--line-heights-0);
   --heading-5-medium-font-weight: var(--font-weight-medium);
@@ -281,7 +283,7 @@
   --heading-5-regular-text-case: var(--text-case-none);
   --heading-5-regular-paragraph-indent: var(--paragraph-indent-0);
   --heading-5-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-5-regular-letter-spacing: var(--letter-spacing-0);
+  --heading-5-regular-letter-spacing: var(--letter-spacing-2);
   --heading-5-regular-font-size: var(--font-size-5);
   --heading-5-regular-line-height: var(--line-heights-0);
   --heading-5-regular-font-weight: var(--font-weight-normal);
@@ -289,7 +291,7 @@
   --heading-4-extrabold-text-case: var(--text-case-none);
   --heading-4-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --heading-4-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-4-extrabold-letter-spacing: var(--letter-spacing-0);
+  --heading-4-extrabold-letter-spacing: var(--letter-spacing-2);
   --heading-4-extrabold-font-size: var(--font-size-6);
   --heading-4-extrabold-line-height: var(--line-heights-0);
   --heading-4-extrabold-font-weight: var(--font-weight-extrabold);
@@ -297,7 +299,7 @@
   --heading-4-bold-text-case: var(--text-case-none);
   --heading-4-bold-paragraph-indent: var(--paragraph-indent-0);
   --heading-4-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-4-bold-letter-spacing: var(--letter-spacing-0);
+  --heading-4-bold-letter-spacing: var(--letter-spacing-2);
   --heading-4-bold-font-size: var(--font-size-6);
   --heading-4-bold-line-height: var(--line-heights-0);
   --heading-4-bold-font-weight: var(--font-weight-bold);
@@ -305,7 +307,7 @@
   --heading-4-medium-text-case: var(--text-case-none);
   --heading-4-medium-paragraph-indent: var(--paragraph-indent-0);
   --heading-4-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-4-medium-letter-spacing: var(--letter-spacing-0);
+  --heading-4-medium-letter-spacing: var(--letter-spacing-2);
   --heading-4-medium-font-size: var(--font-size-6);
   --heading-4-medium-line-height: var(--line-heights-0);
   --heading-4-medium-font-weight: var(--font-weight-medium);
@@ -313,7 +315,7 @@
   --heading-4-regular-text-case: var(--text-case-none);
   --heading-4-regular-paragraph-indent: var(--paragraph-indent-0);
   --heading-4-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-4-regular-letter-spacing: var(--letter-spacing-0);
+  --heading-4-regular-letter-spacing: var(--letter-spacing-2);
   --heading-4-regular-font-size: var(--font-size-6);
   --heading-4-regular-line-height: var(--line-heights-0);
   --heading-4-regular-font-weight: var(--font-weight-normal);
@@ -321,7 +323,7 @@
   --heading-3-extrabold-text-case: var(--text-case-none);
   --heading-3-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --heading-3-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-3-extrabold-letter-spacing: var(--letter-spacing-0);
+  --heading-3-extrabold-letter-spacing: var(--letter-spacing-1);
   --heading-3-extrabold-font-size: var(--font-size-7);
   --heading-3-extrabold-line-height: var(--line-heights-0);
   --heading-3-extrabold-font-weight: var(--font-weight-extrabold);
@@ -329,7 +331,7 @@
   --heading-3-bold-text-case: var(--text-case-none);
   --heading-3-bold-paragraph-indent: var(--paragraph-indent-0);
   --heading-3-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-3-bold-letter-spacing: var(--letter-spacing-0);
+  --heading-3-bold-letter-spacing: var(--letter-spacing-1);
   --heading-3-bold-font-size: var(--font-size-7);
   --heading-3-bold-line-height: var(--line-heights-0);
   --heading-3-bold-font-weight: var(--font-weight-bold);
@@ -337,7 +339,7 @@
   --heading-3-medium-text-case: var(--text-case-none);
   --heading-3-medium-paragraph-indent: var(--paragraph-indent-0);
   --heading-3-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-3-medium-letter-spacing: var(--letter-spacing-0);
+  --heading-3-medium-letter-spacing: var(--letter-spacing-1);
   --heading-3-medium-font-size: var(--font-size-7);
   --heading-3-medium-line-height: var(--line-heights-0);
   --heading-3-medium-font-weight: var(--font-weight-medium);
@@ -345,7 +347,7 @@
   --heading-3-regular-text-case: var(--text-case-none);
   --heading-3-regular-paragraph-indent: var(--paragraph-indent-0);
   --heading-3-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-3-regular-letter-spacing: var(--letter-spacing-0);
+  --heading-3-regular-letter-spacing: var(--letter-spacing-1);
   --heading-3-regular-font-size: var(--font-size-7);
   --heading-3-regular-line-height: var(--line-heights-0);
   --heading-3-regular-font-weight: var(--font-weight-normal);
@@ -353,7 +355,7 @@
   --heading-2-extrabold-text-case: var(--text-case-none);
   --heading-2-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --heading-2-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-2-extrabold-letter-spacing: var(--letter-spacing-0);
+  --heading-2-extrabold-letter-spacing: var(--letter-spacing-1);
   --heading-2-extrabold-font-size: var(--font-size-8);
   --heading-2-extrabold-line-height: var(--line-heights-0);
   --heading-2-extrabold-font-weight: var(--font-weight-extrabold);
@@ -361,7 +363,7 @@
   --heading-2-bold-text-case: var(--text-case-none);
   --heading-2-bold-paragraph-indent: var(--paragraph-indent-0);
   --heading-2-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-2-bold-letter-spacing: var(--letter-spacing-0);
+  --heading-2-bold-letter-spacing: var(--letter-spacing-1);
   --heading-2-bold-font-size: var(--font-size-8);
   --heading-2-bold-line-height: var(--line-heights-0);
   --heading-2-bold-font-weight: var(--font-weight-bold);
@@ -369,7 +371,7 @@
   --heading-2-medium-text-case: var(--text-case-none);
   --heading-2-medium-paragraph-indent: var(--paragraph-indent-0);
   --heading-2-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-2-medium-letter-spacing: var(--letter-spacing-0);
+  --heading-2-medium-letter-spacing: var(--letter-spacing-1);
   --heading-2-medium-font-size: var(--font-size-8);
   --heading-2-medium-line-height: var(--line-heights-0);
   --heading-2-medium-font-weight: var(--font-weight-medium);
@@ -377,7 +379,7 @@
   --heading-2-regular-text-case: var(--text-case-none);
   --heading-2-regular-paragraph-indent: var(--paragraph-indent-0);
   --heading-2-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-2-regular-letter-spacing: var(--letter-spacing-0);
+  --heading-2-regular-letter-spacing: var(--letter-spacing-1);
   --heading-2-regular-font-size: var(--font-size-8);
   --heading-2-regular-line-height: var(--line-heights-0);
   --heading-2-regular-font-weight: var(--font-weight-normal);
@@ -385,7 +387,7 @@
   --heading-1-extrabold-text-case: var(--text-case-none);
   --heading-1-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --heading-1-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-1-extrabold-letter-spacing: var(--letter-spacing-0);
+  --heading-1-extrabold-letter-spacing: var(--letter-spacing-1);
   --heading-1-extrabold-font-size: var(--font-size-9);
   --heading-1-extrabold-line-height: var(--line-heights-0);
   --heading-1-extrabold-font-weight: var(--font-weight-extrabold);
@@ -393,7 +395,7 @@
   --heading-1-bold-text-case: var(--text-case-none);
   --heading-1-bold-paragraph-indent: var(--paragraph-indent-0);
   --heading-1-bold-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-1-bold-letter-spacing: var(--letter-spacing-0);
+  --heading-1-bold-letter-spacing: var(--letter-spacing-1);
   --heading-1-bold-font-size: var(--font-size-9);
   --heading-1-bold-line-height: var(--line-heights-0);
   --heading-1-bold-font-weight: var(--font-weight-bold);
@@ -401,7 +403,7 @@
   --heading-1-medium-text-case: var(--text-case-none);
   --heading-1-medium-paragraph-indent: var(--paragraph-indent-0);
   --heading-1-medium-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-1-medium-letter-spacing: var(--letter-spacing-0);
+  --heading-1-medium-letter-spacing: var(--letter-spacing-1);
   --heading-1-medium-font-size: var(--font-size-9);
   --heading-1-medium-line-height: var(--line-heights-0);
   --heading-1-medium-font-weight: var(--font-weight-medium);
@@ -409,7 +411,7 @@
   --heading-1-regular-text-case: var(--text-case-none);
   --heading-1-regular-paragraph-indent: var(--paragraph-indent-0);
   --heading-1-regular-paragraph-spacing: var(--paragraph-spacing-0);
-  --heading-1-regular-letter-spacing: var(--letter-spacing-0);
+  --heading-1-regular-letter-spacing: var(--letter-spacing-1);
   --heading-1-regular-font-size: var(--font-size-9);
   --heading-1-regular-line-height: var(--line-heights-0);
   --heading-1-regular-font-weight: var(--font-weight-normal);

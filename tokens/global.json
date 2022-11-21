@@ -79,11 +79,11 @@
   },
   "letterSpacing": {
     "0": {
-      "value": "-0.05em",
+      "value": "-0.025em",
       "type": "letterSpacing"
     },
     "1": {
-      "value": "-0.025em",
+      "value": "-0.01em",
       "type": "letterSpacing"
     },
     "2": {
@@ -91,14 +91,22 @@
       "type": "letterSpacing"
     },
     "3": {
-      "value": "0.025em",
+      "value": "0.01em",
       "type": "letterSpacing"
     },
     "4": {
-      "value": "0.05em",
+      "value": "0.025em",
       "type": "letterSpacing"
     },
     "5": {
+      "value": "0.05em",
+      "type": "letterSpacing"
+    },
+    "6": {
+      "value": "0.075em",
+      "type": "letterSpacing"
+    },
+    "7": {
       "value": "0.1em",
       "type": "letterSpacing"
     }
@@ -129,7 +137,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -167,7 +175,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -205,7 +213,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -243,7 +251,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -283,7 +291,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -321,7 +329,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -359,7 +367,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -397,7 +405,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -437,7 +445,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -475,7 +483,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -513,7 +521,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -551,7 +559,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.1}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -591,7 +599,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -629,7 +637,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -667,7 +675,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -705,7 +713,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -745,7 +753,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -783,7 +791,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -821,7 +829,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -859,7 +867,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.0}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -901,7 +909,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -939,7 +947,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -977,7 +985,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1017,7 +1025,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1055,7 +1063,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1093,7 +1101,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1133,7 +1141,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1171,7 +1179,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1209,7 +1217,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1249,7 +1257,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1287,7 +1295,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1325,7 +1333,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.1}",
+          "value": "{letterSpacing.2}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1366,7 +1374,7 @@
         "type": "fontSize"
       },
       "letterSpacing": {
-        "value": "{letterSpacing.3}",
+        "value": "{letterSpacing.4}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
@@ -1404,7 +1412,7 @@
         "type": "fontSize"
       },
       "letterSpacing": {
-        "value": "{letterSpacing.3}",
+        "value": "{letterSpacing.4}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
@@ -1445,7 +1453,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1483,7 +1491,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1521,7 +1529,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1559,7 +1567,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1599,7 +1607,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1637,7 +1645,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1675,7 +1683,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1713,7 +1721,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1753,7 +1761,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1791,7 +1799,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1829,7 +1837,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
@@ -1867,7 +1875,7 @@
           "type": "fontSize"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.4}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         },
         "paragraphSpacing": {
