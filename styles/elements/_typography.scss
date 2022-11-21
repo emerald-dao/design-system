@@ -7,10 +7,10 @@ body {
 }
 
 .text {
-  --font-weight: var(--font-weight-normal);
-  line-height: var(--line-heights-3);
+  --font-weight: var(--paragraph-medium-regular-font-weight);
+  line-height: var(--paragraph-medium-regular-line-height);
+  font-family: var(--paragraph-small-regular-font-family);
   color: var(--clr-text-main);
-  font-family: var(--font-text);
 
   &-xsmall {
     @extend .text;

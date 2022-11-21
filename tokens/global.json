@@ -15,43 +15,11 @@
   },
   "lineHeights": {
     "0": {
-      "value": "1rem",
+      "value": "1.2em",
       "type": "lineHeights"
     },
     "1": {
-      "value": "1.25rem",
-      "type": "lineHeights"
-    },
-    "2": {
-      "value": "1.5rem",
-      "type": "lineHeights"
-    },
-    "3": {
-      "value": "1.75rem",
-      "type": "lineHeights"
-    },
-    "4": {
-      "value": "1.75rem",
-      "type": "lineHeights"
-    },
-    "5": {
-      "value": "2rem",
-      "type": "lineHeights"
-    },
-    "6": {
-      "value": "2.25rem",
-      "type": "lineHeights"
-    },
-    "7": {
-      "value": "2.5rem",
-      "type": "lineHeights"
-    },
-    "8": {
-      "value": "3rem",
-      "type": "lineHeights"
-    },
-    "9": {
-      "value": "4rem",
+      "value": "1.4em",
       "type": "lineHeights"
     }
   },
@@ -307,7 +275,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.1}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -345,7 +313,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.1}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -383,7 +351,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.1}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -421,7 +389,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.1}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -461,7 +429,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.2}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -499,7 +467,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.2}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -537,7 +505,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.2}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -575,7 +543,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.2}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -615,7 +583,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.3}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -653,7 +621,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.3}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -691,7 +659,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.3}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -729,7 +697,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.3}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -769,7 +737,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.4}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -807,7 +775,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.4}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -845,7 +813,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.4}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -883,7 +851,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.4}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -925,7 +893,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.6}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -963,7 +931,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.5}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1001,7 +969,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.5}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1041,7 +1009,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.6}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1079,7 +1047,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.6}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1117,7 +1085,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.6}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1157,7 +1125,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.7}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1195,7 +1163,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.7}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1233,7 +1201,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.7}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1273,7 +1241,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.8}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1311,7 +1279,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.8}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1349,7 +1317,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.8}",
+          "value": "{lineHeights.1}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1390,7 +1358,7 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": "{lineHeights.6}",
+        "value": "{lineHeights.0}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1428,7 +1396,7 @@
         "type": "fontWeight"
       },
       "lineHeight": {
-        "value": "{lineHeights.6}",
+        "value": "{lineHeights.0}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1469,7 +1437,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.9}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1507,7 +1475,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.9}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1545,7 +1513,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.9}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
@@ -1583,7 +1551,7 @@
           "type": "fontWeight"
         },
         "lineHeight": {
-          "value": "{lineHeights.9}",
+          "value": "{lineHeights.0}",
           "type": "lineHeight"
         },
         "fontSize": {
