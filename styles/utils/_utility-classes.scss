@@ -1,7 +1,7 @@
 @use './mixins' as mxn;
 
 .hide-on-mobile {
-  display: none;
+  display: none !important;
 
   @include mxn.mq(medium) {
     display: block;
@@ -12,7 +12,7 @@
   display: block;
 
   @include mxn.mq(medium) {
-    display: none;
+    display: none !important;
   }
 }
 
