@@ -12,6 +12,11 @@
     margin-inline: auto;
   }
 
+  &-medium {
+    width: min(90%, 85rem);
+    margin-inline: auto;
+  }
+
   &-full {
     width: 90%;
     margin-inline: auto;
