@@ -309,6 +309,16 @@
         "value": "#f0757599",
         "type": "color"
       }
+    },
+    "border": {
+      "primary": {
+        "value": "{clr.neutral.700}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{clr.neutral.500}",
+        "type": "color"
+      }
     }
   }
 }
