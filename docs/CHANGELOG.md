@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/emerald-dao/design-system/compare/v1.15.0...v1.16.0) (2022-11-21)
+
+
+### Features
+
+* Uninstall token transformer ([2a4c892](https://github.com/emerald-dao/design-system/commit/2a4c8929a8d42d3e160e83a673fd48dcc9d7ab38))
+
 # [1.15.0](https://github.com/emerald-dao/design-system/compare/v1.14.1...v1.15.0) (2022-11-21)
 
 
