@@ -34,10 +34,10 @@ body {
 }
 
 .heading {
-  --font-weight: var(--font-weight-normal);
-  line-height: var(--line-heights-3);
+  --font-weight: var(--heading-1-regular-font-weight);
+  line-height: var(--heading-1-regular-line-height);
   color: var(--clr-heading-main);
-  font-family: var(--font-heading);
+  font-family: var(--heading-1-regular-font-family);
 }
 
 h1,
