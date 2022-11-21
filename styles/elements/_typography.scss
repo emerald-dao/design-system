@@ -11,26 +11,34 @@ body {
   line-height: var(--paragraph-medium-regular-line-height);
   font-family: var(--paragraph-small-regular-font-family);
   color: var(--clr-text-main);
+}
 
-  &-xsmall {
-    @extend .text;
-    font-size: var(--paragraph-xsmall-medium-font-size);
-  }
+.text-xsmall,
+p.xsmall,
+span.xsmall {
+  @extend .text;
+  font-size: var(--paragraph-xsmall-medium-font-size);
+}
 
-  &-small {
-    @extend .text;
-    font-size: var(--paragraph-small-medium-font-size);
-  }
+.text-small,
+p.small,
+span.small {
+  @extend .text;
+  font-size: var(--paragraph-small-medium-font-size);
+}
 
-  &-medium {
-    @extend .text;
-    font-size: var(--paragraph-medium-medium-font-size);
-  }
+.text-medium,
+p.medium,
+span.medium {
+  @extend .text;
+  font-size: var(--paragraph-medium-medium-font-size);
+}
 
-  &-large {
-    @extend .text;
-    font-size: var(--paragraph-large-medium-font-size);
-  }
+.text-large,
+p.large,
+span.large {
+  @extend .text;
+  font-size: var(--paragraph-large-medium-font-size);
 }
 
 .heading {
