@@ -1,3 +1,10 @@
+## [1.18.1](https://github.com/emerald-dao/design-system/compare/v1.18.0...v1.18.1) (2022-11-21)
+
+
+### Bug Fixes
+
+* Fix color alias tokens connection to origin ([61f1e99](https://github.com/emerald-dao/design-system/commit/61f1e99cd0857ed9a32eab01018ffeabb09e7908))
+
 # [1.18.0](https://github.com/emerald-dao/design-system/compare/v1.17.0...v1.18.0) (2022-11-21)
 
 
