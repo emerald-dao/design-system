@@ -1,4 +1,44 @@
 {
+  "0": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "1": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "2": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "3": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "4": {
+    "value": "20",
+    "type": "borderRadius"
+  },
+  "5": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "6": {
+    "value": "28",
+    "type": "borderRadius"
+  },
+  "7": {
+    "value": "32",
+    "type": "borderRadius"
+  },
+  "8": {
+    "value": "36",
+    "type": "borderRadius"
+  },
+  "9": {
+    "value": "40",
+    "type": "borderRadius"
+  },
   "ff": {
     "satoshi": {
       "value": "Satoshi Variable",
@@ -1970,5 +2010,9 @@
       "value": "900",
       "type": "fontWeights"
     }
+  },
+  "primary": {
+    "value": "1",
+    "type": "borderWidth"
   }
 }
