@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/emerald-dao/design-system/compare/v1.14.1...v1.15.0) (2022-11-21)
+
+
+### Features
+
+* Text shortcuts ([d243888](https://github.com/emerald-dao/design-system/commit/d24388815886ec87369ea83377faca577e3037b4))
+
 ## [1.14.1](https://github.com/emerald-dao/design-system/compare/v1.14.0...v1.14.1) (2022-11-21)
 
 
