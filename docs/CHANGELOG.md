@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/emerald-dao/design-system/compare/v1.16.2...v1.17.0) (2022-11-21)
+
+
+### Features
+
+* Add border radius tokens ([4476288](https://github.com/emerald-dao/design-system/commit/4476288998d6715f48c6af1bcc46a73e5580677c))
+
 ## [1.16.2](https://github.com/emerald-dao/design-system/compare/v1.16.1...v1.16.2) (2022-11-21)
 
 
