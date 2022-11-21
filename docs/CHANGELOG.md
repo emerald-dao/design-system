@@ -1,3 +1,10 @@
+## [1.13.4](https://github.com/emerald-dao/design-system/compare/v1.13.3...v1.13.4) (2022-11-21)
+
+
+### Bug Fixes
+
+* Heading corrections ([881d945](https://github.com/emerald-dao/design-system/commit/881d9457a31d631399adfeb72b868a5764462412))
+
 ## [1.13.3](https://github.com/emerald-dao/design-system/compare/v1.13.2...v1.13.3) (2022-11-21)
 
 
