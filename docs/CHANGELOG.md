@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/emerald-dao/design-system/compare/v1.17.0...v1.18.0) (2022-11-21)
+
+
+### Features
+
+* Add border color tokens ([8948ad9](https://github.com/emerald-dao/design-system/commit/8948ad968a9031a3ec30d9f383d70bca9c5b5ce1))
+
 # [1.17.0](https://github.com/emerald-dao/design-system/compare/v1.16.2...v1.17.0) (2022-11-21)
 
 
