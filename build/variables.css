@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 21 Nov 2022 13:54:25 GMT
+ * Generated on Mon, 21 Nov 2022 14:08:03 GMT
  */
 
 :root {
@@ -45,12 +45,76 @@
   --font-mono: var(--ff-jetbrains-mono);
   --font-text: var(--ff-inter);
   --font-heading: var(--ff-satoshi);
+  --display-small-extrabold-text-decoration: var(--text-decoration-none);
+  --display-small-extrabold-text-case: var(--text-case-none);
+  --display-small-extrabold-paragraph-indent: var(--paragraph-indent-0);
+  --display-small-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-small-extrabold-letter-spacing: var(--letter-spacing-4);
+  --display-small-extrabold-font-size: var(--font-size-10);
+  --display-small-extrabold-line-height: var(--line-heights-0);
+  --display-small-extrabold-font-weight: var(--font-weight-extrabold);
+  --display-small-bold-text-decoration: var(--text-decoration-none);
+  --display-small-bold-text-case: var(--text-case-none);
+  --display-small-bold-paragraph-indent: var(--paragraph-indent-0);
+  --display-small-bold-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-small-bold-letter-spacing: var(--letter-spacing-4);
+  --display-small-bold-font-size: var(--font-size-10);
+  --display-small-bold-line-height: var(--line-heights-0);
+  --display-small-bold-font-weight: var(--font-weight-bold);
+  --display-small-medium-text-decoration: var(--text-decoration-none);
+  --display-small-medium-text-case: var(--text-case-none);
+  --display-small-medium-paragraph-indent: var(--paragraph-indent-0);
+  --display-small-medium-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-small-medium-letter-spacing: var(--letter-spacing-4);
+  --display-small-medium-font-size: var(--font-size-10);
+  --display-small-medium-line-height: var(--line-heights-0);
+  --display-small-medium-font-weight: var(--font-weight-medium);
+  --display-small-regular-text-decoration: var(--text-decoration-none);
+  --display-small-regular-text-case: var(--text-case-none);
+  --display-small-regular-paragraph-indent: var(--paragraph-indent-0);
+  --display-small-regular-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-small-regular-letter-spacing: var(--letter-spacing-4);
+  --display-small-regular-font-size: var(--font-size-10);
+  --display-small-regular-line-height: var(--line-heights-0);
+  --display-small-regular-font-weight: var(--font-weight-normal);
+  --display-medium-extrabold-text-decoration: var(--text-decoration-none);
+  --display-medium-extrabold-text-case: var(--text-case-none);
+  --display-medium-extrabold-paragraph-indent: var(--paragraph-indent-0);
+  --display-medium-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-medium-extrabold-letter-spacing: var(--letter-spacing-4);
+  --display-medium-extrabold-font-size: var(--font-size-11);
+  --display-medium-extrabold-line-height: var(--line-heights-0);
+  --display-medium-extrabold-font-weight: var(--font-weight-extrabold);
+  --display-medium-bold-text-decoration: var(--text-decoration-none);
+  --display-medium-bold-text-case: var(--text-case-none);
+  --display-medium-bold-paragraph-indent: var(--paragraph-indent-0);
+  --display-medium-bold-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-medium-bold-letter-spacing: var(--letter-spacing-4);
+  --display-medium-bold-font-size: var(--font-size-11);
+  --display-medium-bold-line-height: var(--line-heights-0);
+  --display-medium-bold-font-weight: var(--font-weight-bold);
+  --display-medium-medium-text-decoration: var(--text-decoration-none);
+  --display-medium-medium-text-case: var(--text-case-none);
+  --display-medium-medium-paragraph-indent: var(--paragraph-indent-0);
+  --display-medium-medium-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-medium-medium-letter-spacing: var(--letter-spacing-4);
+  --display-medium-medium-font-size: var(--font-size-11);
+  --display-medium-medium-line-height: var(--line-heights-0);
+  --display-medium-medium-font-weight: var(--font-weight-medium);
+  --display-medium-regular-text-decoration: var(--text-decoration-none);
+  --display-medium-regular-text-case: var(--text-case-none);
+  --display-medium-regular-paragraph-indent: var(--paragraph-indent-0);
+  --display-medium-regular-paragraph-spacing: var(--paragraph-spacing-0);
+  --display-medium-regular-letter-spacing: var(--letter-spacing-4);
+  --display-medium-regular-font-size: var(--font-size-11);
+  --display-medium-regular-line-height: var(--line-heights-0);
+  --display-medium-regular-font-weight: var(--font-weight-normal);
   --display-large-extrabold-text-decoration: var(--text-decoration-none);
   --display-large-extrabold-text-case: var(--text-case-none);
   --display-large-extrabold-paragraph-indent: var(--paragraph-indent-0);
   --display-large-extrabold-paragraph-spacing: var(--paragraph-spacing-0);
   --display-large-extrabold-letter-spacing: var(--letter-spacing-4);
-  --display-large-extrabold-font-size: var(--font-size-10);
+  --display-large-extrabold-font-size: var(--font-size-12);
   --display-large-extrabold-line-height: var(--line-heights-0);
   --display-large-extrabold-font-weight: var(--font-weight-extrabold);
   --display-large-bold-text-decoration: var(--text-decoration-none);
@@ -58,7 +122,7 @@
   --display-large-bold-paragraph-indent: var(--paragraph-indent-0);
   --display-large-bold-paragraph-spacing: var(--paragraph-spacing-0);
   --display-large-bold-letter-spacing: var(--letter-spacing-4);
-  --display-large-bold-font-size: var(--font-size-10);
+  --display-large-bold-font-size: var(--font-size-12);
   --display-large-bold-line-height: var(--line-heights-0);
   --display-large-bold-font-weight: var(--font-weight-bold);
   --display-large-medium-text-decoration: var(--text-decoration-none);
@@ -66,7 +130,7 @@
   --display-large-medium-paragraph-indent: var(--paragraph-indent-0);
   --display-large-medium-paragraph-spacing: var(--paragraph-spacing-0);
   --display-large-medium-letter-spacing: var(--letter-spacing-4);
-  --display-large-medium-font-size: var(--font-size-10);
+  --display-large-medium-font-size: var(--font-size-12);
   --display-large-medium-line-height: var(--line-heights-0);
   --display-large-medium-font-weight: var(--font-weight-medium);
   --display-large-regular-text-decoration: var(--text-decoration-none);
@@ -74,7 +138,7 @@
   --display-large-regular-paragraph-indent: var(--paragraph-indent-0);
   --display-large-regular-paragraph-spacing: var(--paragraph-spacing-0);
   --display-large-regular-letter-spacing: var(--letter-spacing-4);
-  --display-large-regular-font-size: var(--font-size-10);
+  --display-large-regular-font-size: var(--font-size-12);
   --display-large-regular-line-height: var(--line-heights-0);
   --display-large-regular-font-weight: var(--font-weight-normal);
   --tagline-small-text-decoration: var(--text-decoration-none);
@@ -349,6 +413,14 @@
   --heading-1-regular-font-size: var(--font-size-9);
   --heading-1-regular-line-height: var(--line-heights-0);
   --heading-1-regular-font-weight: var(--font-weight-normal);
+  --display-small-extrabold-font-family: var(--font-heading);
+  --display-small-bold-font-family: var(--font-heading);
+  --display-small-medium-font-family: var(--font-heading);
+  --display-small-regular-font-family: var(--font-heading);
+  --display-medium-extrabold-font-family: var(--font-heading);
+  --display-medium-bold-font-family: var(--font-heading);
+  --display-medium-medium-font-family: var(--font-heading);
+  --display-medium-regular-font-family: var(--font-heading);
   --display-large-extrabold-font-family: var(--font-heading);
   --display-large-bold-font-family: var(--font-heading);
   --display-large-medium-font-family: var(--font-heading);

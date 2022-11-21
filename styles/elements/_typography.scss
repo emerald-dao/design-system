@@ -80,6 +80,34 @@ h5,
   line-height: var(--heading-5-regular-line-height);
 }
 
+.display {
+  --font-weight: var(--display-medium-regular-font-weight);
+  line-height: var(--display-medium-regular-line-height);
+  color: var(--clr-heading-main);
+  font-family: var(--display-medium-regular-font-family);
+
+  &-small {
+    @extend .display;
+    letter-spacing: var(--display-small-regular-letter-spacing);
+    font-size: var(--display-small-regular-font-size);
+    line-height: var(--display-small-regular-line-height);
+  }
+
+  &-medium {
+    @extend .display;
+    letter-spacing: var(--display-medium-regular-letter-spacing);
+    font-size: var(--display-medium-regular-font-size);
+    line-height: var(--display-medium-regular-line-height);
+  }
+
+  &-large {
+    @extend .display;
+    letter-spacing: var(--display-large-regular-letter-spacing);
+    font-size: var(--display-large-regular-font-size);
+    line-height: var(--display-large-regular-line-height);
+  }
+}
+
 .weight {
   &-medium {
     --font-weight: var(--font-weight-medium);
