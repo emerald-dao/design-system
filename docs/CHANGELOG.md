@@ -1,3 +1,10 @@
+## [1.13.3](https://github.com/emerald-dao/design-system/compare/v1.13.2...v1.13.3) (2022-11-21)
+
+
+### Bug Fixes
+
+* Line height corrections ([420ca65](https://github.com/emerald-dao/design-system/commit/420ca65cebfee00197508c1423aade5b5fd55b3e))
+
 ## [1.13.2](https://github.com/emerald-dao/design-system/compare/v1.13.1...v1.13.2) (2022-11-18)
 
 
