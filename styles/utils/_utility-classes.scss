@@ -26,12 +26,12 @@
   border-width: var(--border-width-primary);
   border-style: solid;
 
-  .-primary {
+  &-primary {
     @extend .border;
     border-color: var(--clr-border-primary);
   }
 
-  .-secondary {
+  &-secondary {
     @extend .border;
     border-color: var(--clr-border-secondary);
   }
