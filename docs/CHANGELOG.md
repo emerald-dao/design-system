@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/emerald-dao/design-system/compare/v1.18.3...v1.19.0) (2022-11-22)
+
+
+### Features
+
+* Add utility classes for borders ([986c977](https://github.com/emerald-dao/design-system/commit/986c97720bb43478b956c762a62b06b5134f98a9))
+
 ## [1.18.3](https://github.com/emerald-dao/design-system/compare/v1.18.2...v1.18.3) (2022-11-22)
 
 
