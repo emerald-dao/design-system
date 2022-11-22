@@ -1,10 +1,20 @@
 /**
  * Do not edit directly
- * Generated on Mon, 21 Nov 2022 21:36:32 GMT
+ * Generated on Tue, 22 Nov 2022 12:34:47 GMT
  */
 
 :root {
-  --primary: 1;
+  --border-width-primary: 1;
+  --radius-9: 40;
+  --radius-8: 36;
+  --radius-7: 32;
+  --radius-6: 28;
+  --radius-5: 24;
+  --radius-4: 20;
+  --radius-3: 16;
+  --radius-2: 12;
+  --radius-1: 8;
+  --radius-0: 4;
   --font-weight-black: 900;
   --font-weight-extrabold: 800;
   --font-weight-bold: 700;
@@ -45,16 +55,6 @@
   --ff-jetbrains-mono: JetBrains Mono;
   --ff-inter: Inter;
   --ff-satoshi: Satoshi Variable;
-  --9: 40;
-  --8: 36;
-  --7: 32;
-  --6: 28;
-  --5: 24;
-  --4: 20;
-  --3: 16;
-  --2: 12;
-  --1: 8;
-  --0: 4;
   --font-mono: var(--ff-jetbrains-mono);
   --font-text: var(--ff-inter);
   --font-heading: var(--ff-satoshi);
