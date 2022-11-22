@@ -1,3 +1,10 @@
+## [1.19.4](https://github.com/emerald-dao/design-system/compare/v1.19.3...v1.19.4) (2022-11-22)
+
+
+### Bug Fixes
+
+* Another fix to .border childs ([5bafac0](https://github.com/emerald-dao/design-system/commit/5bafac07d120b91b78259edf2de3e35d498167e3))
+
 ## [1.19.3](https://github.com/emerald-dao/design-system/compare/v1.19.2...v1.19.3) (2022-11-22)
 
 
