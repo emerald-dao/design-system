@@ -1,3 +1,10 @@
+## [1.19.3](https://github.com/emerald-dao/design-system/compare/v1.19.2...v1.19.3) (2022-11-22)
+
+
+### Bug Fixes
+
+* Fix [@extend](https://github.com/extend) .border issue ([36f1cad](https://github.com/emerald-dao/design-system/commit/36f1cadf528235547262a1b6f5175c651de2be78))
+
 ## [1.19.2](https://github.com/emerald-dao/design-system/compare/v1.19.1...v1.19.2) (2022-11-22)
 
 
