@@ -1,3 +1,10 @@
+## [1.18.2](https://github.com/emerald-dao/design-system/compare/v1.18.1...v1.18.2) (2022-11-22)
+
+
+### Bug Fixes
+
+* Fix border tokens naming ([99071a2](https://github.com/emerald-dao/design-system/commit/99071a2609f6a22dc2d97201ea616685250cbb42))
+
 ## [1.18.1](https://github.com/emerald-dao/design-system/compare/v1.18.0...v1.18.1) (2022-11-21)
 
 
