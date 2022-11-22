@@ -27,12 +27,12 @@
   border-style: solid;
 
   .-primary {
-    @extend border;
+    @extend .border;
     border-color: var(--clr-border-primary);
   }
 
   .-secondary {
-    @extend border;
+    @extend .border;
     border-color: var(--clr-border-secondary);
   }
 }
