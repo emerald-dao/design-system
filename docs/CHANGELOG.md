@@ -1,3 +1,11 @@
+## [1.18.3](https://github.com/emerald-dao/design-system/compare/v1.18.2...v1.18.3) (2022-11-22)
+
+
+### Bug Fixes
+
+* Satoshi font correction ([24bc8e7](https://github.com/emerald-dao/design-system/commit/24bc8e7ce9131523d30873a207bf7c8e5817f7b6))
+* Satoshi variable correction ([5cc74c8](https://github.com/emerald-dao/design-system/commit/5cc74c8e6bcd443928d82a0af9ddd5d83fd19b17))
+
 ## [1.18.2](https://github.com/emerald-dao/design-system/compare/v1.18.1...v1.18.2) (2022-11-22)
 
 
