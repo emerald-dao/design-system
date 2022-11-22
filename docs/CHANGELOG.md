@@ -1,3 +1,10 @@
+## [1.19.1](https://github.com/emerald-dao/design-system/compare/v1.19.0...v1.19.1) (2022-11-22)
+
+
+### Bug Fixes
+
+* Change font width class names ([1825985](https://github.com/emerald-dao/design-system/commit/1825985dd93db6a49c92d8da398d4f3edd73bc1f))
+
 # [1.19.0](https://github.com/emerald-dao/design-system/compare/v1.18.3...v1.19.0) (2022-11-22)
 
 
