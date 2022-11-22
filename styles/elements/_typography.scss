@@ -116,18 +116,16 @@ h5,
   }
 }
 
-.weight {
-  &-medium {
-    --font-weight: var(--font-weight-medium);
-  }
+.w-medium {
+  --font-weight: var(--font-weight-medium);
+}
 
-  &-bold {
-    --font-weight: var(--font-weight-bold);
-  }
+.w-bold {
+  --font-weight: var(--font-weight-bold);
+}
 
-  &-extrabold {
-    --font-weight: var(--font-weight-extrabold);
-  }
+.w-extrabold {
+  --font-weight: var(--font-weight-extrabold);
 }
 
 small {
