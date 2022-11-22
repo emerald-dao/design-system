@@ -21,3 +21,18 @@
   align-items: center;
   justify-content: center;
 }
+
+.border {
+  border-width: var(--border-width-primary);
+  border-style: solid;
+
+  .-primary {
+    @extend border;
+    border-color: var(--clr-border-primary);
+  }
+
+  .-secondary {
+    @extend border;
+    border-color: var(--clr-border-secondary);
+  }
+}
