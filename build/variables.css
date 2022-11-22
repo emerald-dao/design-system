@@ -54,7 +54,7 @@
   --line-heights-0: 1.2em;
   --ff-jetbrains-mono: JetBrains Mono;
   --ff-inter: Inter;
-  --ff-satoshi: Satoshi Variable;
+  --ff-satoshi: Satoshi;
   --font-mono: var(--ff-jetbrains-mono);
   --font-text: var(--ff-inter);
   --font-heading: var(--ff-satoshi);
