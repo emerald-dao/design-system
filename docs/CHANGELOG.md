@@ -1,3 +1,10 @@
+## [1.20.2](https://github.com/emerald-dao/design-system/compare/v1.20.1...v1.20.2) (2022-11-23)
+
+
+### Bug Fixes
+
+* Fix broken aliases and missing units ([b2f4b26](https://github.com/emerald-dao/design-system/commit/b2f4b2637be8fbce66e358a35026da184b65164c))
+
 ## [1.20.1](https://github.com/emerald-dao/design-system/compare/v1.20.0...v1.20.1) (2022-11-23)
 
 
