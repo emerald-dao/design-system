@@ -1,3 +1,10 @@
+## [1.19.5](https://github.com/emerald-dao/design-system/compare/v1.19.4...v1.19.5) (2022-11-23)
+
+
+### Bug Fixes
+
+* Add 'px' to radius variables ([aeb9849](https://github.com/emerald-dao/design-system/commit/aeb984911c3e629d465e554ccb18710346a062ee))
+
 ## [1.19.4](https://github.com/emerald-dao/design-system/compare/v1.19.3...v1.19.4) (2022-11-22)
 
 
