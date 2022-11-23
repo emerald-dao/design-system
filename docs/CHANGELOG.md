@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/emerald-dao/design-system/compare/v1.19.5...v1.20.0) (2022-11-23)
+
+
+### Features
+
+* Add card elements ([6f64768](https://github.com/emerald-dao/design-system/commit/6f647683a30940ed243383da23e5ac4944c214c5))
+
 ## [1.19.5](https://github.com/emerald-dao/design-system/compare/v1.19.4...v1.19.5) (2022-11-23)
 
 
