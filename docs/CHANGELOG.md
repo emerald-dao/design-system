@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/emerald-dao/design-system/compare/v1.21.0...v1.22.0) (2022-11-23)
+
+
+### Features
+
+* Add basic padding and radius to cards ([4dc1831](https://github.com/emerald-dao/design-system/commit/4dc183101f6e9c85102fa99d5b78980e4d2ccfd0))
+
 # [1.21.0](https://github.com/emerald-dao/design-system/compare/v1.20.2...v1.21.0) (2022-11-23)
 
 
