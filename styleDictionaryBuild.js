@@ -15,19 +15,16 @@ StyleDictionary.registerFormat({
   transforms: ['attribute/cti'],
   formatter: function ({ dictionary, options }) {
     const { outputReferences } = options;
-    console.log(dictionary.allProperties);
     return `${this.selector} {
       ${formattedVariables({ format: 'css', dictionary, outputReferences })}
     }`;
   },
 });
 
-const modes = [`light`, `dark`];
-
 console.log(`☀️ Building general variables...`);
 StyleDictionary.extend({
   source: [`tokens/global.json`],
-  transforms: ['attribute/cti', 'size/rem'],
+  transforms: ['attribute/cti'],
   platforms: {
     css: {
       transformGroup: `css`,
@@ -36,7 +33,6 @@ StyleDictionary.extend({
         {
           destination: `variables.css`,
           format: `css/variables`,
-          selector: ':root',
           options: {
             outputReferences: true,
           },
@@ -48,11 +44,8 @@ StyleDictionary.extend({
 
 console.log(`☀️ Building light mode...`);
 StyleDictionary.extend({
-  // Using the include array so that theme token overrides don't show
-  // warnings in the console.
-  // include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
   source: [`tokens/light.json`],
-  transforms: ['attribute/cti', 'size/rem'],
+  transforms: ['attribute/cti'],
   platforms: {
     css: {
       transformGroup: `css`,
@@ -72,12 +65,8 @@ StyleDictionary.extend({
 }).buildAllPlatforms();
 
 // Dark Mode
-// we will only build the files we need to, we don't need to rebuild all the files
 console.log(`\n\n🌙 Building dark mode...`);
 StyleDictionary.extend({
-  // Using the include array so that theme token overrides don't show
-  // warnings in the console.
-  include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
   source: [`tokens/dark.json`],
   platforms: {
     css: {
@@ -88,8 +77,6 @@ StyleDictionary.extend({
           destination: `variables-dark.css`,
           format: `css/variables/theme`,
           selector: ':root[data-theme=dark]',
-          // only putting in the tokens from files with '.dark' in the filepath
-          filter: (token) => token.filePath.indexOf(`dark`) > -1,
           options: {
             outputReferences: true,
           },
