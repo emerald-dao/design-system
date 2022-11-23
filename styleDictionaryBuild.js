@@ -1,6 +1,8 @@
 const StyleDictionary = require('style-dictionary');
 const fs = require('fs-extra');
 
+const { formattedVariables } = StyleDictionary.formatHelpers;
+
 const path = `build/`;
 
 // before this runs we should clean the directories we are generating files in
@@ -10,9 +12,12 @@ fs.removeSync(path);
 
 StyleDictionary.registerFormat({
   name: 'css/variables/theme',
-  formatter: function (dictionary, config) {
+  transforms: ['attribute/cti'],
+  formatter: function ({ dictionary, options }) {
+    const { outputReferences } = options;
+    console.log(dictionary.allProperties);
     return `${this.selector} {
-      ${dictionary.allProperties.map((prop) => `  --${prop.name}: ${prop.original.value};`).join('\n')}
+      ${formattedVariables({ format: 'css', dictionary, outputReferences })}
     }`;
   },
 });
@@ -47,7 +52,7 @@ StyleDictionary.extend({
   // warnings in the console.
   // include: [`tokens/!(*.${modes.join(`|*.`)}).json`],
   source: [`tokens/light.json`],
-
+  transforms: ['attribute/cti', 'size/rem'],
   platforms: {
     css: {
       transformGroup: `css`,

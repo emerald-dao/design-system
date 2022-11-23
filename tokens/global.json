@@ -2015,7 +2015,7 @@
   },
   "borderWidth": {
     "primary": {
-      "value": "1",
+      "value": "1px",
       "type": "borderWidth"
     }
   }
