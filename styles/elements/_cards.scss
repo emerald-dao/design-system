@@ -1,0 +1,11 @@
+.card {
+  &-primary {
+    @extend .border-primary;
+    background-color: var(--clr-surface-primary);
+  }
+
+  &-secondary {
+    @extend .border-primary;
+    background-color: var(--clr-surface-secondary);
+  }
+}
