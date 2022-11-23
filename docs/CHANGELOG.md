@@ -1,3 +1,10 @@
+## [1.20.1](https://github.com/emerald-dao/design-system/compare/v1.20.0...v1.20.1) (2022-11-23)
+
+
+### Bug Fixes
+
+* Fix card extends ([c3c2ba7](https://github.com/emerald-dao/design-system/commit/c3c2ba787d138ebb9523eb71b4c7d44534f17b2f))
+
 # [1.20.0](https://github.com/emerald-dao/design-system/compare/v1.19.5...v1.20.0) (2022-11-23)
 
 
