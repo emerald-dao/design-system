@@ -1,3 +1,10 @@
+## [1.23.2](https://github.com/emerald-dao/design-system/compare/v1.23.1...v1.23.2) (2022-11-24)
+
+
+### Bug Fixes
+
+* More [@extend](https://github.com/extend) css fixes ([e651bc4](https://github.com/emerald-dao/design-system/commit/e651bc45ce043530c4a1eb5f6f1678e9201ce19e))
+
 ## [1.23.1](https://github.com/emerald-dao/design-system/compare/v1.23.0...v1.23.1) (2022-11-24)
 
 
