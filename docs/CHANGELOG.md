@@ -1,3 +1,11 @@
+# [1.23.0](https://github.com/emerald-dao/design-system/compare/v1.22.0...v1.23.0) (2022-11-24)
+
+
+### Features
+
+* Add transparent card ([6a247f0](https://github.com/emerald-dao/design-system/commit/6a247f080e3624b6c765b2aca4b4b3fd4246f145))
+* Flex utility classes ([d6895ee](https://github.com/emerald-dao/design-system/commit/d6895ee53688344c21c59a28302d1f6e8102b343))
+
 # [1.22.0](https://github.com/emerald-dao/design-system/compare/v1.21.0...v1.22.0) (2022-11-23)
 
 
