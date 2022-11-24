@@ -1,3 +1,10 @@
+## [1.23.1](https://github.com/emerald-dao/design-system/compare/v1.23.0...v1.23.1) (2022-11-24)
+
+
+### Bug Fixes
+
+* Fix flex utilities issues ([2804b36](https://github.com/emerald-dao/design-system/commit/2804b36019b8c8e1d8a8452ceee9da5251a92608))
+
 # [1.23.0](https://github.com/emerald-dao/design-system/compare/v1.22.0...v1.23.0) (2022-11-24)
 
 
