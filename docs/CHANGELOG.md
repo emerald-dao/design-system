@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/emerald-dao/design-system/compare/v1.24.1...v1.25.0) (2022-12-07)
+
+
+### Features
+
+* Add rotate animation ([4336169](https://github.com/emerald-dao/design-system/commit/433616969df14fbcce2486fe3eb9094f5b6b526d))
+
 ## [1.24.1](https://github.com/emerald-dao/design-system/compare/v1.24.0...v1.24.1) (2022-12-07)
 
 
