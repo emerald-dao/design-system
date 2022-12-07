@@ -1,3 +1,10 @@
+## [1.24.1](https://github.com/emerald-dao/design-system/compare/v1.24.0...v1.24.1) (2022-12-07)
+
+
+### Bug Fixes
+
+* Fix input background ([991a36c](https://github.com/emerald-dao/design-system/commit/991a36cb8a8a37a099959585dd352e6dc3bba364))
+
 # [1.24.0](https://github.com/emerald-dao/design-system/compare/v1.23.2...v1.24.0) (2022-12-07)
 
 
