@@ -1,3 +1,10 @@
+# [1.26.0](https://github.com/emerald-dao/design-system/compare/v1.25.1...v1.26.0) (2022-12-07)
+
+
+### Features
+
+* Add tooltips elements ([56b9c6a](https://github.com/emerald-dao/design-system/commit/56b9c6a35f7d1e61b787b8a2b982b2ba23acf938))
+
 ## [1.25.1](https://github.com/emerald-dao/design-system/compare/v1.25.0...v1.25.1) (2022-12-07)
 
 
