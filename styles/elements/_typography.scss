@@ -116,6 +116,10 @@ h5,
   }
 }
 
+.w-regular {
+  --font-weight: var(--font-weight-regular);
+}
+
 .w-medium {
   --font-weight: var(--font-weight-medium);
 }
