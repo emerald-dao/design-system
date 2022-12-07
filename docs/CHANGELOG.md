@@ -1,3 +1,10 @@
+## [1.25.1](https://github.com/emerald-dao/design-system/compare/v1.25.0...v1.25.1) (2022-12-07)
+
+
+### Bug Fixes
+
+* Input width correction ([4d7af09](https://github.com/emerald-dao/design-system/commit/4d7af09d9f4838f8cbcfff4a840f8f8dcbcfccab))
+
 # [1.25.0](https://github.com/emerald-dao/design-system/compare/v1.24.1...v1.25.0) (2022-12-07)
 
 
