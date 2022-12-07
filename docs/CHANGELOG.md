@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/emerald-dao/design-system/compare/v1.23.2...v1.24.0) (2022-12-07)
+
+
+### Features
+
+* Form styling ([6ba837d](https://github.com/emerald-dao/design-system/commit/6ba837df5d5d5b397318a0ed4b5b7b31ea68ad96))
+
 ## [1.23.2](https://github.com/emerald-dao/design-system/compare/v1.23.1...v1.23.2) (2022-11-24)
 
 
