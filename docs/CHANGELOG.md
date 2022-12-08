@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/emerald-dao/design-system/compare/v1.26.1...v1.27.0) (2022-12-08)
+
+
+### Features
+
+* New utility classes for responsive elements ([08d6533](https://github.com/emerald-dao/design-system/commit/08d65339df343e2e23801de2a644d3db6b59abd0))
+
 ## [1.26.1](https://github.com/emerald-dao/design-system/compare/v1.26.0...v1.26.1) (2022-12-08)
 
 
