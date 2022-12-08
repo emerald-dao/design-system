@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/emerald-dao/design-system/compare/v1.27.0...v2.0.0) (2022-12-08)
+
+
+### Features
+
+* All scss stylesheets moved away from this project ([28aea83](https://github.com/emerald-dao/design-system/commit/28aea83ec46b8ad8f87e265cce7a4297c0066267))
+
+
+### BREAKING CHANGES
+
+* All styleesheets are moved to component-library project
+
 # [1.27.0](https://github.com/emerald-dao/design-system/compare/v1.26.1...v1.27.0) (2022-12-08)
 
 
