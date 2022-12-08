@@ -1,3 +1,10 @@
+## [1.26.1](https://github.com/emerald-dao/design-system/compare/v1.26.0...v1.26.1) (2022-12-08)
+
+
+### Bug Fixes
+
+* Fix responsive utility classes ([cee39f7](https://github.com/emerald-dao/design-system/commit/cee39f7cbce3b860626a9530584ca6f6817bed96))
+
 # [1.26.0](https://github.com/emerald-dao/design-system/compare/v1.25.1...v1.26.0) (2022-12-07)
 
 
