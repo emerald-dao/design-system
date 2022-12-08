@@ -16,6 +16,22 @@
   }
 }
 
+.hide-on-mobile-flex {
+  display: none;
+
+  @include mxn.mq(medium) {
+    display: flex;
+  }
+}
+
+.hide-on-desktop-flex {
+  display: flex;
+
+  @include mxn.mq(medium) {
+    display: none;
+  }
+}
+
 .center {
   display: flex;
   align-items: center;
