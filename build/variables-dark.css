@@ -1,5 +1,19 @@
 :root[data-theme=dark] {
-        --clr-alert-off: #f0757599;
+        --clr-success-badge: rgba(143,231,54,0.1);
+  --clr-success-off: rgba(133,231,35,0.5);
+  --clr-success-main: #8fe736;
+  --clr-success-900: #264408;
+  --clr-success-800: #335c0a;
+  --clr-success-700: #47810e;
+  --clr-success-600: #5ca512;
+  --clr-success-500: #70ca16;
+  --clr-success-400: #85e723;
+  --clr-success-300: #99eb47;
+  --clr-success-200: #adef6c;
+  --clr-success-100: #c2f391;
+  --clr-success-50: #d1f6ac;
+  --clr-alert-badge: #f075751a;
+  --clr-alert-off: #f0757599;
   --clr-alert-main: #f07575;
   --clr-alert-900: #5c0a0a;
   --clr-alert-800: #5c0a0a;
@@ -11,7 +25,6 @@
   --clr-alert-200: #ef6c6c;
   --clr-alert-100: #f39191;
   --clr-alert-50: #f6acac;
-  --clr-gradient-linear: linear-gradient(90deg, #23e6c0 0%, #7733ff 100%);
   --clr-surface-secondary: #313131;
   --clr-surface-primary: #222222;
   --clr-heading-off: #ffffff73;
@@ -24,6 +37,7 @@
   --clr-text-main: #ffffff99;
   --clr-shade-1: #000000;
   --clr-shade-0: #ffffff;
+  --clr-neutral-badge: #8585851a;
   --clr-neutral-900: #1a1a1a;
   --clr-neutral-800: #1a1a1a;
   --clr-neutral-700: #484848;
@@ -34,6 +48,7 @@
   --clr-neutral-200: #adadad;
   --clr-neutral-100: #d1d1d1;
   --clr-neutral-50: #d1d1d1;
+  --clr-tertiary-badge: #ff66c41a;
   --clr-tertiary-off: #ff66c499;
   --clr-tertiary-main: #ff66c4;
   --clr-tertiary-900: #33001f;
@@ -46,6 +61,7 @@
   --clr-tertiary-200: #ff5cc0;
   --clr-tertiary-100: #ff85d0;
   --clr-tertiary-50: #ffa3dc;
+  --clr-secondary-badge: #5216ca1a;
   --clr-secondary-off: #b191f399;
   --clr-secondary-main: #5216ca;
   --clr-secondary-900: #13052e;

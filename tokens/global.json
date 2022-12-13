@@ -15,11 +15,11 @@
   },
   "lineHeights": {
     "0": {
-      "value": "1.2em",
+      "value": "120%",
       "type": "lineHeights"
     },
     "1": {
-      "value": "1.4em",
+      "value": "140%",
       "type": "lineHeights"
     }
   },
@@ -79,7 +79,7 @@
   },
   "letterSpacing": {
     "0": {
-      "value": "-0.025em",
+      "value": "-2.5%",
       "type": "letterSpacing"
     },
     "1": {

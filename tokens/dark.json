@@ -102,6 +102,10 @@
       "off": {
         "value": "#b191f399",
         "type": "color"
+      },
+      "badge": {
+        "value": "#5216ca1a",
+        "type": "color"
       }
     },
     "tertiary": {
@@ -152,6 +156,10 @@
       "off": {
         "value": "#ff66c499",
         "type": "color"
+      },
+      "badge": {
+        "value": "#ff66c41a",
+        "type": "color"
       }
     },
     "neutral": {
@@ -193,6 +201,10 @@
       },
       "900": {
         "value": "#1a1a1a",
+        "type": "color"
+      },
+      "badge": {
+        "value": "#8585851a",
         "type": "color"
       }
     },
@@ -254,12 +266,6 @@
         "type": "color"
       }
     },
-    "gradient": {
-      "linear": {
-        "value": "linear-gradient(90deg, #23e6c0 0%, #7733ff 100%)",
-        "type": "color"
-      }
-    },
     "alert": {
       "50": {
         "value": "#f6acac",
@@ -308,6 +314,10 @@
       "off": {
         "value": "#f0757599",
         "type": "color"
+      },
+      "badge": {
+        "value": "#f075751a",
+        "type": "color"
       }
     },
     "border": {
@@ -317,6 +327,60 @@
       },
       "secondary": {
         "value": "{clr.neutral.500}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "50": {
+        "value": "#d1f6ac",
+        "type": "color"
+      },
+      "100": {
+        "value": "#c2f391",
+        "type": "color"
+      },
+      "200": {
+        "value": "#adef6c",
+        "type": "color"
+      },
+      "300": {
+        "value": "#99eb47",
+        "type": "color"
+      },
+      "400": {
+        "value": "#85e723",
+        "type": "color"
+      },
+      "500": {
+        "value": "#70ca16",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5ca512",
+        "type": "color"
+      },
+      "700": {
+        "value": "#47810e",
+        "type": "color"
+      },
+      "800": {
+        "value": "#335c0a",
+        "type": "color"
+      },
+      "900": {
+        "value": "#264408",
+        "type": "color"
+      },
+      "main": {
+        "value": "#8fe736",
+        "type": "color"
+      },
+      "off": {
+        "value": "rgba(133,231,35,0.5)",
+        "type": "color"
+      },
+      "badge": {
+        "value": "rgba(143,231,54,0.1)",
         "type": "color"
       }
     }
