@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/emerald-dao/design-system/compare/v2.0.0...v2.1.0) (2022-12-13)
+
+
+### Features
+
+* Add shadows and missing colors ([4b04893](https://github.com/emerald-dao/design-system/commit/4b04893db0e4330964f19c83a5bb42ce7be78890))
+
 # [2.0.0](https://github.com/emerald-dao/design-system/compare/v1.27.0...v2.0.0) (2022-12-08)
 
 
