@@ -1021,7 +1021,7 @@
           "type": "lineHeight"
         },
         "fontSize": {
-          "value": "{fontSize.3}",
+          "value": "{fontSize.2}",
           "type": "fontSize"
         },
         "letterSpacing": {
@@ -1059,7 +1059,7 @@
           "type": "lineHeight"
         },
         "fontSize": {
-          "value": "{fontSize.3}",
+          "value": "{fontSize.2}",
           "type": "fontSize"
         },
         "letterSpacing": {
@@ -1097,7 +1097,7 @@
           "type": "lineHeight"
         },
         "fontSize": {
-          "value": "{fontSize.3}",
+          "value": "{fontSize.2}",
           "type": "fontSize"
         },
         "letterSpacing": {
