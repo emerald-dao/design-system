@@ -245,7 +245,7 @@
   --paragraph-medium-semibold-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-semibold-paragraph-spacing: var(--paragraph-spacing-0);
   --paragraph-medium-semibold-letter-spacing: var(--letter-spacing-2);
-  --paragraph-medium-semibold-font-size: var(--font-size-3);
+  --paragraph-medium-semibold-font-size: var(--font-size-2);
   --paragraph-medium-semibold-line-height: var(--line-heights-1);
   --paragraph-medium-semibold-font-weight: var(--font-weight-semibold);
   --paragraph-medium-medium-text-decoration: var(--text-decoration-none);
@@ -253,7 +253,7 @@
   --paragraph-medium-medium-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-medium-paragraph-spacing: var(--paragraph-spacing-0);
   --paragraph-medium-medium-letter-spacing: var(--letter-spacing-2);
-  --paragraph-medium-medium-font-size: var(--font-size-3);
+  --paragraph-medium-medium-font-size: var(--font-size-2);
   --paragraph-medium-medium-line-height: var(--line-heights-1);
   --paragraph-medium-medium-font-weight: var(--font-weight-medium);
   --paragraph-medium-regular-text-decoration: var(--text-decoration-none);
@@ -261,7 +261,7 @@
   --paragraph-medium-regular-paragraph-indent: var(--paragraph-indent-0);
   --paragraph-medium-regular-paragraph-spacing: var(--paragraph-spacing-0);
   --paragraph-medium-regular-letter-spacing: var(--letter-spacing-2);
-  --paragraph-medium-regular-font-size: var(--font-size-3);
+  --paragraph-medium-regular-font-size: var(--font-size-2);
   --paragraph-medium-regular-line-height: var(--line-heights-1);
   --paragraph-medium-regular-font-weight: var(--font-weight-normal);
   --paragraph-large-semibold-text-decoration: var(--text-decoration-none);
