@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/emerald-dao/design-system/compare/v2.1.0...v2.2.0) (2023-01-12)
+
+
+### Features
+
+* Paragraph sizes adjustments ([2067947](https://github.com/emerald-dao/design-system/commit/206794742bace191892c9047e563e77731e8de73))
+
 # [2.1.0](https://github.com/emerald-dao/design-system/compare/v2.0.0...v2.1.0) (2022-12-13)
 
 
