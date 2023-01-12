@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/emerald-dao/design-system/compare/v2.2.1...v2.2.2) (2023-01-12)
+
+
+### Bug Fixes
+
+* Update large paragraphs ([05739f3](https://github.com/emerald-dao/design-system/commit/05739f3fea481201203d66a7e13becd02e7462ab))
+
 ## [2.2.1](https://github.com/emerald-dao/design-system/compare/v2.2.0...v2.2.1) (2023-01-12)
 
 
