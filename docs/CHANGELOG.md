@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/emerald-dao/design-system/compare/v2.2.0...v2.2.1) (2023-01-12)
+
+
+### Bug Fixes
+
+* Adjust global.json for font sizes ([8db163e](https://github.com/emerald-dao/design-system/commit/8db163ea998e5f047ff41dfc9ce599ec420d4bdf))
+
 # [2.2.0](https://github.com/emerald-dao/design-system/compare/v2.1.0...v2.2.0) (2023-01-12)
 
 
