@@ -393,19 +393,19 @@
   },
   "shadow-xsmall": {
     "x": {
-      "value": "0",
+      "value": "0px",
       "type": "x"
     },
     "y": {
-      "value": "1",
+      "value": "1px",
       "type": "y"
     },
     "blur": {
-      "value": "2",
+      "value": "2px",
       "type": "blur"
     },
     "spread": {
-      "value": "0",
+      "value": "0px",
       "type": "spread"
     },
     "color": {
@@ -419,19 +419,19 @@
   },
   "shadow-small": {
     "x": {
-      "value": "0",
+      "value": "0px",
       "type": "x"
     },
     "y": {
-      "value": "1",
+      "value": "1px",
       "type": "y"
     },
     "blur": {
-      "value": "3",
+      "value": "3px",
       "type": "blur"
     },
     "spread": {
-      "value": "0",
+      "value": "0px",
       "type": "spread"
     },
     "color": {
@@ -445,19 +445,19 @@
   },
   "shadow-medium": {
     "x": {
-      "value": "0",
+      "value": "0px",
       "type": "x"
     },
     "y": {
-      "value": "4",
+      "value": "4px",
       "type": "y"
     },
     "blur": {
-      "value": "6",
+      "value": "6px",
       "type": "blur"
     },
     "spread": {
-      "value": "-1",
+      "value": "-1px",
       "type": "spread"
     },
     "color": {
@@ -471,19 +471,19 @@
   },
   "shadow-large": {
     "x": {
-      "value": "0",
+      "value": "0px",
       "type": "x"
     },
     "y": {
-      "value": "10",
+      "value": "10px",
       "type": "y"
     },
     "blur": {
-      "value": "15",
+      "value": "15px",
       "type": "blur"
     },
     "spread": {
-      "value": "-3",
+      "value": "-3px",
       "type": "spread"
     },
     "color": {
@@ -497,19 +497,19 @@
   },
   "shadow-xlarge": {
     "x": {
-      "value": "0",
+      "value": "0px",
       "type": "x"
     },
     "y": {
-      "value": "20",
+      "value": "20px",
       "type": "y"
     },
     "blur": {
-      "value": "25",
+      "value": "25px",
       "type": "blur"
     },
     "spread": {
-      "value": "-5",
+      "value": "-5px",
       "type": "spread"
     },
     "color": {
