@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/emerald-dao/design-system/compare/v2.2.2...v2.2.3) (2023-07-06)
+
+
+### Bug Fixes
+
+* Shadow token corrections ([7af19cf](https://github.com/emerald-dao/design-system/commit/7af19cf16eaa63f2bf8f58f6e0f05d695d949334))
+
 ## [2.2.2](https://github.com/emerald-dao/design-system/compare/v2.2.1...v2.2.2) (2023-01-12)
 
 
